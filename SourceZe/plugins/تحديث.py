@@ -156,7 +156,7 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
     pattern="تحديث(| الان)?$",
     command=("update", plugin_category),
     info={
-        "header": "لـ تحـديث بــوت زدثـــون",
+        "header": "لـ تحـديث بــوت زد إي",
         "الاستـخـدام": [
             "{tr}تحديث",
             "{tr}تحديث الان",
@@ -304,7 +304,7 @@ async def reda(event):
     
     if event.message.message == "تحديث اجباري" and event.sender_id in progs:
         conf = "الان"
-        event = await event.reply("**᯽︙ يتم البحث عن تحديث , تحديث بامر المطور اجبارياً**")
+        event = await event.reply("**۞︙ يتم البحث عن تحديث , تحديث بامر المطور اجبارياً**")
         off_repo = UPSTREAM_REPO_URL
         force_update = False
     
@@ -353,7 +353,7 @@ async def reda(event):
         # Special case for deploy
         if changelog == "" and not force_update:
             await event.edit(
-                "**᯽︙ 🤍 لا توجد تحديثات الى الان **\n"
+                "**۞︙ 🤍 لا توجد تحديثات الى الان **\n"
             )
             return repo.__del__()
         if conf == "" and not force_update:

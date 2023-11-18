@@ -5,12 +5,12 @@ from telethon.events import CallbackQuery
 
 from mody.razan.resources.assistant import *
 from mody.razan.resources.mybot import *
-from HuRe import mody
+from SourceZe import mody
 from ..core import check_owner
 from ..Config import Config
 
-JEP_IC = "https://telegra.ph/file/dd6c46b812395a1b607e9.jpg"
-ROE = "**♰ هـذه هي قائمة اوامـر سـورس زد إي ♰**"
+ZE_IC = "https://telegra.ph/file/dd6c46b812395a1b607e9.jpg"
+ROE = "**۞ هـذه هي قائمة اوامـر سـورس زد إي ۞**"
 
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:
 
@@ -53,21 +53,21 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
                     Button.inline("☪︎ الانتحال والتقليد ☪︎", data="uscuxrz"),
                 ],
             ]
-            if JEP_IC and JEP_IC.endswith((".jpg", ".png", "gif", "mp4")):
+            if ZE_IC and ZE_IC.endswith((".jpg", ".png", "gif", "mp4")):
                 result = builder.photo(
-                    JEP_IC, text=ROE, buttons=buttons, link_preview=False
+                    ZE_IC, text=ROE, buttons=buttons, link_preview=False
                 )
-            elif JEP_IC:
+            elif ZE_IC:
                 result = builder.document(
-                    JEP_IC,
-                    title="HuRe",
+                    ZE_IC,
+                    title="SourceZe",
                     text=ROE,
                     buttons=buttons,
                     link_preview=False,
                 )
             else:
                 result = builder.article(
-                    title="HuRe",
+                    title="SourceZe",
                     text=ROE,
                     buttons=buttons,
                     link_preview=False,
