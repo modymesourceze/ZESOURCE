@@ -1,5 +1,4 @@
-#Fixes by Reda 
-#Made by hussein
+ #Made by mody
 #-------------
 import asyncio
 import base64

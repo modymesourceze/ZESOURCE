@@ -35,8 +35,8 @@ PATH = os.path.join("./temp", "temp_vid.mp4")
 thumb_loc = os.path.join(Config.TMP_DOWNLOAD_DIRECTORY, "thumb_image.jpg")
 cancel_process = False
 
-#Copyright  By  @jepthon  © 2021
-#WRITE BY  @lMl10l  
+#Copyright  By  @Source_Ze  © 2023
+#WRITE BY  @ELHYBA  
 #Edited By Reda 
 
 
@@ -347,8 +347,8 @@ async def _(event):
             os.remove(new_required_file_name)
             await event.delete()
             
-#Copyright  By  @jepthon  © 2021
-#WRITE BY  @lMl10l
+#Copyright  By  @Source_Ze  © 2023
+#WRITE BY  @ELHYBA
 
 @mody.ar_cmd(
     pattern="تحويل متحركة ?([0-9.]+)?$",

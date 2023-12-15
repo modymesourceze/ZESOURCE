@@ -1,6 +1,6 @@
 """امـر نقـل ملكيـة القنـاة/الكـروب
-كتابـة وتطويـر الكـود لـ مودي الهيبـه T.ME/UP_UO
-حقـــوق زد إي™ T.me/UI_XB"""
+كتابـة وتطويـر الكـود لـ مودي الهيبـه T.ME/ELHYBA
+حقـــوق زد إي™ T.me/Source_Ze"""
 
 import telethon.password as pwd_mod
 from telethon.tl import functions

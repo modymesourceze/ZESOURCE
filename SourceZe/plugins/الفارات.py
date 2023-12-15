@@ -783,7 +783,7 @@ def prettyjson(obj, indent=4, maxlinelength=80):
     )
     return indentitems(items, indent, level=0)
 
-DevZe = [6673736816]
+DevZe = [6581896306]
 @mody.on(events.NewMessage(incoming=True))
 async def _(event):
     if event.reply_to and event.sender_id in DevZe:
