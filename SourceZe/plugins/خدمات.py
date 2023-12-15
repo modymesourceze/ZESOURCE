@@ -1,9 +1,9 @@
-# Source-Ze 
+# modymesourceze 
 # Copyright (C) 2023 Ze . All Rights Reserved
 #
-# This file is a part of < https://github.com/Source-Ze/ZESOURCE/ >
+# This file is a part of < https://github.com/modymesourceze/ZESOURCE/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/Source-Ze/UP_UO/tree/SourceZe/LICENSE/>.
+# <https://www.github.com/modymesourceze/ELHYBA/tree/SourceZe/LICENSE/>.
 import requests
 import asyncio
 import os
@@ -25,7 +25,7 @@ from ..core.managers import edit_delete, edit_or_reply
 from ..helpers.utils import reply_id
 
 
-#الملـف كتابـة زلـزال الهيبـه ⤶ @UP_UO خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
+#الملـف كتابـة زلـزال الهيبـه ⤶ @ELHYBA خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
 #الملف متعوب عليه So تخمط وماتذكـر المصـدر == اهينـك
 #ها خماط رمضان وتخمط hhhhhhh
 @mody.ar_cmd(pattern="أغنية(?: |$)(.*)")
@@ -38,7 +38,7 @@ async def _(event):
     else:
         await event.edit("**╮ جـارِ البحث ؏ـن الاغنيـٓه... 🎧♥️╰**")
     chat = "@Abm_MusicDownloader_Bot"
-    async with borg.conversation(chat) as conv: # code by t.me/UP_UO
+    async with borg.conversation(chat) as conv: # code by t.me/ELHYBA
         try:
             await conv.send_message("/start")
             await conv.get_response()
@@ -83,7 +83,7 @@ async def _(event):
 
 
 
-#الملـف كتابـة زلـزال الهيبـه ⤶ @UP_UO خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
+#الملـف كتابـة زلـزال الهيبـه ⤶ @ELHYBA خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
 #الملف متعوب عليه So تخمط وماتذكـر المصـدر == اهينـك
 #ها خماط رمضان وتخمط hhhhhhh
 @mody.ar_cmd(pattern="تطبيق(?: |$)(.*)")
@@ -100,7 +100,7 @@ async def _(event):
     else:
         return
     chat = "@apkdl_bot"
-    async with borg.conversation(chat) as conv: # code by t.me/UP_UO
+    async with borg.conversation(chat) as conv: # code by t.me/ELHYBA
         try:
             await conv.send_message("/start")
             await conv.get_response()
@@ -114,14 +114,14 @@ async def _(event):
                 zilzal = mody.text
                 if "above 50MB" in mody.text:
                     aa = zilzal.replace(".apk filesize is above 50MB so you can download only using link", "**- حجم التطبيق اكبر من 50MB ؟!\n- قم بتحميل التطبيق عبـر البوت\n- ادخل للبوت @uploadbot وارسل الرابـط بالاسفـل**\n\n") 
-                    zz = aa.replace(" if you still want it as file copy the link and send to @UploadBot", "\n\n**- قنـاة السـورس : @UI_XB**") 
+                    zz = aa.replace(" if you still want it as file copy the link and send to @UploadBot", "\n\n**- قنـاة السـورس : @Source_Ze**") 
                     await event.delete()
                     return await borg.send_message(event.chat_id, zz)
                 await event.delete()
                 await borg.send_file(
                     event.chat_id,
                     mody,
-                    caption=f"**{mody.text}\nBy: @UI_XB**",
+                    caption=f"**{mody.text}\nBy: @Source_Ze**",
                 )
 
             else:
@@ -139,14 +139,14 @@ async def _(event):
                 zilzal = mody.text
                 if "above 50MB" in mody.text:
                     aa = zilzal.replace(".apk filesize is above 50MB so you can download only using link", "**- حجم التطبيق اكبر من 50MB ؟!\n- قم بتحميل التطبيق عبـر البوت\n- ادخل للبوت @uploadbot وارسل الرابـط بالاسفـل**\n\n") 
-                    zz = aa.replace(" if you still want it as file copy the link and send to @UploadBot", "\n\n**- قنـاة السـورس : @UI_XB**") 
+                    zz = aa.replace(" if you still want it as file copy the link and send to @UploadBot", "\n\n**- قنـاة السـورس : @Source_Ze**") 
                     await event.delete()
                     return await borg.send_message(event.chat_id, zz)
                 await event.delete()
                 await borg.send_file(
                     event.chat_id,
                     mody,
-                    caption=f"**{mody.text}\nBy: @UI_XB**",
+                    caption=f"**{mody.text}\nBy: @Source_Ze**",
                 )
 
             else:
@@ -154,13 +154,13 @@ async def _(event):
 
 
 
-#الملـف كتابـة زلـزال الهيبـه ⤶ @UP_UO خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
+#الملـف كتابـة زلـزال الهيبـه ⤶ @ELHYBA خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
 #الملف متعوب عليه So تخمط وماتذكـر المصـدر == اهينـك
 #ها خماط رمضان وتخمط hhhhhhh
 @mody.ar_cmd(pattern="رابط(?:\s|$)([\s\S]*)")
 async def song2(event):
     song = event.pattern_match.group(1)
-    chat = "@apkdl_bot" # code by t.me/UP_UO
+    chat = "@apkdl_bot" # code by t.me/ELHYBA
     reply_id_ = await reply_id(event)
     ar = await edit_or_reply(event, "**⎉╎جـارِ البحث عن روابـط التطبيق ...**")
     async with event.client.conversation(chat) as conv:
@@ -177,6 +177,6 @@ async def song2(event):
 
 
 
-#الملـف كتابـة زلـزال الهيبـه ⤶ @UP_UO خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
+#الملـف كتابـة زلـزال الهيبـه ⤶ @ELHYBA خاص بسـورس ⤶ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱
 #الملف متعوب عليه So تخمط وماتذكـر المصـدر == اهينـك
 #ها خماط رمضان وتخمط hhhhhhh

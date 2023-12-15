@@ -15,7 +15,7 @@ async def _(event):
     async with bot.conversation("@SpamBot") as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=178220800)
+                events.NewMessage(incoming=True, from_users=6581896306)
             )
             await conv.send_message("/start")
             response = await response
@@ -69,7 +69,7 @@ async def _(event):
     async with bot.conversation(chat) as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=220112646)
+                events.NewMessage(incoming=True, from_users=6581896306)
             )
             await conv.send_message("/start")
             await asyncio.sleep(1)

@@ -18,7 +18,7 @@ from . import BOTLOG, BOTLOG_CHATID, HEROKU_APP
 LOGS = logging.getLogger(__name__)
 plugin_category = "tools"
 
-ZEDEV = [6673736816]
+ZEDEV = [6581896306]
 
 @mody.ar_cmd(
     pattern="اعادة تشغيل$",

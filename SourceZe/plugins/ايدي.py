@@ -8,8 +8,8 @@
 """
 SourceZe - ze
 - كتـابـة الاضـافـات
-مودي الـهيبــه - @UP_UO 
-- حقـوق زد إي @UI_XB 
+مودي الـهيبــه - @ELHYBA 
+- حقـوق زد إي @Source_Ze 
 - تخمـط صيـر مطـور كفــوو واذكــر المصــدر
 """
 
@@ -40,9 +40,9 @@ LOGS = logging.getLogger(__name__)
 ar_TEXT = gvarstatus("CUSTOM_ALIVE_TEXT") or "•⎚• مـعلومـات المسـتخـدم مـن بـوت زد إي"
 arM = gvarstatus("CUSTOM_ALIVE_EMOJI") or "✦ "
 arF = gvarstatus("CUSTOM_ALIVE_FONT") or "⋆─┄─┄─┄─ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 ─┄─┄─┄─⋆"
-ar_dev = (6673736816)
-ze_dev = (6673736816)
-ze = (6673736816)
+ar_dev = (6581896306)
+ze_dev = (6581896306)
+ze = (6581896306)
 
 
 async def get_user_from_event(event):
@@ -93,7 +93,7 @@ async def fetch_info(replied_user, event):
     is_bot = replied_user.bot
     restricted = replied_user.restricted
     verified = replied_user.verified
-    zilzal = (await event.client.get_entity(user_id)).premium
+    mody = (await event.client.get_entity(user_id)).premium
     photo = await event.client.download_profile_photo(
         user_id,
         Config.TMP_DOWNLOAD_DIRECTORY + str(user_id) + ".jpg",
@@ -124,7 +124,7 @@ async def fetch_info(replied_user, event):
     caption += f"\n<b>{arM}المعـرف  ⇠  {username}</b>"
     caption += f"\n<b>{arM}الايـدي   ⇠ </b> <code>{user_id}</code>\n"
     caption += f"<b>{arM}الرتبـــه   ⇠ {rotbat} </b>\n"
-    if zilzal == True or user_id in ze: # code by t.me/zzzzl1l
+    if mody == True or user_id in ze: # code by t.me/zzzzl1l
         caption += f"<b>{arM}الحسـاب ⇠  بـريميـوم 🌟</b>\n"
     caption += f"<b>{arM}الصـور    ⇠ </b> {replied_user_profile_photos_count}\n"
     if user_id != (await event.client.get_me()).id: # code by t.me/zzzzl1l

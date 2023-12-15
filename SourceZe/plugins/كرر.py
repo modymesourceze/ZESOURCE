@@ -22,12 +22,12 @@ ZE_BLACKLIST = [
     ]
 
 DEVZ = [
-    6673736816,
+    6581896306,
 ]
 #
 
 ModyPRO_cmd = (
-    "𓆩 [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 - اوامـر الاذا؏ـــة](t.me/UI_XB) 𓆪\n\n"
+    "𓆩 [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 - اوامـر الاذا؏ـــة](t.me/Source_Ze) 𓆪\n\n"
     "**⎞𝟏⎝** `.للكروبات`  / `.للمجموعات`\n"
     "**بالــࢪد ؏ــلى ࢪســالة نصيــة او وسـائــط تحتهــا نــص**\n"
     "**- لـ اذاعـة رسـالة او ميديـا لكـل المجموعـات اللي انت موجود فيهـا . .**\n\n\n"
@@ -43,7 +43,7 @@ ModyPRO_cmd = (
     "**⎞5⎝** `.زاجل`\n"
     "**بالــࢪد ؏ــلى ࢪســالة نصيــة او وسـائــط تحتهــا نــص**\n"
     " **- إرســال رسـاله اذاعـة إلـــى أشـخـاص محددة 🕊. .**\n\n"
-    "\n 𓆩 [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱](t.me/UI_XB) 𓆪"
+    "\n 𓆩 [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱](t.me/Source_Ze) 𓆪"
 )
 
 
@@ -56,7 +56,7 @@ async def cmd(zelzallll):
 @mody.ar_cmd(pattern=f"للكروبات(?: |$)(.*)")
 async def gcast(event):
     SourceZe = event.pattern_match.group(1)
-    if SourceZe: #Write Code By T.me/UP_UO
+    if SourceZe: #Write Code By T.me/ELHYBA
         await edit_or_reply(event, "**𓆰 بالـࢪد ؏ــلى ࢪسـالة او وسائـط**")
         return
     elif event.is_reply:
@@ -71,14 +71,14 @@ async def gcast(event):
         if x.is_group:
             chat = x.id
             try:
-                if mody.text: #Write Code By T.me/UP_UO
+                if mody.text: #Write Code By T.me/ELHYBA
                     try:
                         await borg.send_message(chat, mody, link_preview=False)
                         done += 1
                     except BaseException:
                         er += 1
                 else:
-                    try: #Write Code By T.me/UP_UO
+                    try: #Write Code By T.me/ELHYBA
                         await borg.send_file(
                             chat,
                             mody,
@@ -97,7 +97,7 @@ async def gcast(event):
 @mody.ar_cmd(pattern=f"للمجموعات(?: |$)(.*)")
 async def gcast(event):
     SourceZe = event.pattern_match.group(1)
-    if SourceZe: #Write Code By T.me/UP_UO
+    if SourceZe: #Write Code By T.me/ELHYBA
         await edit_or_reply(event, "**𓆰 بالـࢪد ؏ــلى ࢪسـالة او وسائـط**")
         return
     elif event.is_reply:
@@ -112,14 +112,14 @@ async def gcast(event):
         if x.is_group:
             chat = x.id
             try:
-                if mody.text: #Write Code By T.me/UP_UO
+                if mody.text: #Write Code By T.me/ELHYBA
                     try:
                         await borg.send_message(chat, mody, link_preview=False)
                         done += 1
                     except BaseException:
                         er += 1
                 else:
-                    try: #Write Code By T.me/UP_UO
+                    try: #Write Code By T.me/ELHYBA
                         await borg.send_file(
                             chat,
                             mody,
@@ -138,7 +138,7 @@ async def gcast(event):
 @mody.ar_cmd(pattern=f"للخاص(?: |$)(.*)")
 async def gucast(event):
     SourceZe = event.pattern_match.group(1)
-    if SourceZe: #Write Code By T.me/UP_UO
+    if SourceZe: #Write Code By T.me/ELHYBA
         await edit_or_reply(event, "**𓆰 بالـࢪد ؏ــلى ࢪسـالة او وسائـط**")
         return
     elif event.is_reply:
@@ -153,14 +153,14 @@ async def gucast(event):
         if x.is_user and not x.entity.bot:
             chat = x.id
             try:
-                if mody.text: #Write Code By T.me/UP_UO
+                if mody.text: #Write Code By T.me/ELHYBA
                     try:
                         await borg.send_message(chat, mody, link_preview=False)
                         done += 1
                     except BaseException:
                         return
                 else:
-                    try: #Write Code By T.me/UP_UO
+                    try: #Write Code By T.me/ELHYBA
                         await borg.send_file(
                             chat,
                             mody,

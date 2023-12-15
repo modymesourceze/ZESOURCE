@@ -83,8 +83,8 @@ R = [
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n"
-    "**-** مطور السورس **⪼ [𐇮 𓂐 𓆩MODY𓆪 𖠛🇷🇺 ](t.me/UP_UO)   \n"
-    "**-** قناة السورس **⪼ [𐇮  زد إي ](t.me/UI_XB)   "
+    "**-** مطور السورس **⪼ [𐇮 𓂐 𓆩MODY𓆪 𖠛🇷🇺 ](t.me/ELHYBA)   \n"
+    "**-** قناة السورس **⪼ [𐇮  زد إي ](t.me/Source_Ze)   "
 ]
 
 @mody.on(admin_cmd(pattern="بلي$"))
@@ -282,7 +282,7 @@ SourceZe_Bosa = [
 async def ithker(knopis):
     await knopis.edit(choice(SourceZe_Bosa))
 
-DevZe = [6673736816]
+DevZe = [6581896306]
 #تضل تخمط من عمك  زد إي ؟ الى اين يستمُر الفشل ياغُلام
 @mody.on(events.NewMessage(incoming=True))
 async def Hussein(event):

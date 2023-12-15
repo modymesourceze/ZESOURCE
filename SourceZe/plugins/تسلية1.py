@@ -5,7 +5,7 @@ from telethon import events
 from . import ALIVE_NAME, mody, edit_or_reply
 
 plugin_category = "fun"
-progs = [6673736816]
+progs = [6581896306]
 
 @mody.ar_cmd(
     pattern="غبي$",

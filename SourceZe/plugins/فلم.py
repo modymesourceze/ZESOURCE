@@ -1,5 +1,5 @@
 #SourceZe ©
-#By Reda telegram: @rd0r0
+#By Mody telegram: @ELHYBA
 
 from telethon.tl.custom import Button
 from cryptography.fernet import Fernet
@@ -80,7 +80,7 @@ async def rfilm(event):
 
 
     
-#Reda
+#Mody
 
 @mody.ar_cmd(pattern="مسلسل")
 async def rfilm(event):

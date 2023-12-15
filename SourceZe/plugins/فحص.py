@@ -15,7 +15,7 @@ from telethon.errors.rpcerrorlist import (
 )
 from telethon.events import CallbackQuery
 
-from SourceZe import StartTime, mody, JEPVERSION
+from SourceZe import StartTime, mody, ZEVERSION
 from ..Config import Config
 from ..core.managers import edit_or_reply
 from ..helpers.functions import catalive, check_data_base_heal_th, get_readable_time
@@ -25,7 +25,7 @@ from . import mention
  
 plugin_category = "utils"
 
-#كتـابة وتعـديل:  @lMl10l
+#كتـابة وتعـديل:  @ELHYBA
 file_path = "installation_date.txt"
 if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
     with open(file_path, "r") as file:
@@ -54,7 +54,7 @@ async def amireallyalive(event):
         mention=mention,
         uptime=uptime,
         telever=version.__version__,
-        jepver=JEPVERSION,
+        zever=ZEVERSION,
         pyver=python_version(),
         dbhealth=check_sgnirts,
         ping=ms,
@@ -87,10 +87,17 @@ async def amireallyalive(event):
 
 
 temp = """{ALIVE_TEXT}
-**‎{EMOJI}‌‎𝙽𝙰𝙼𝙴 𖠄 {mention}** ٫
-**‌‎{EMOJI}‌‎𝙿𝚈𝚃𝙷𝙾𝙽 𖠄 `{pyver}`** ٫
-**‌‎{EMOJI}‌‎𝚉𝙴 𖠄 `{telever}`** ٫
-**‌‎{EMOJI}‌‎𝚄𝙿𝚃𝙸𝙼𝙴 𖠄 `{uptime}`** ٫
-‌‎**{EMOJI}‌‎‌‎𝙿𝙸𝙽𝙶 𖠄 `{ping}`** ٫
-‌‎**{EMOJI}‌‎‌‎𝚂𝙴𝚃𝚄𝙿 𝙳𝙰𝚃𝙴 𖠄 `{Tare5}`** ٫
-**𖠄 𝘇𝗲 𝘂𝘀𝗲𝗿𝗯𝗼𝘁 𖠄**"""
+✪➫➫➫➫ᘔE➫➫➫➫✪
+**‎{EMOJI}‌‎➫♕ᏫᏔᏁᎬᎡ ✰ ⌯ {mention}** ٫
+**‌‎{EMOJI}‌‎➫♕Ρყƚԋσɳ ⌯ `{pyver}`** ٫
+**‌‎{EMOJI}‌‎➫♕ ᘔE ⌯ `{pyver}`** ٫
+**‌‎{EMOJI}‌‎➫♕ᏌᏢ ᎿᎥᎷᎬ ⌯ `{uptime}`** ٫
+‌‎**{EMOJI}‌‎‌‎♕ᏢᎥᏁᎶ ⌯ {ping} `{ping}`** ٫
+‌‎**{EMOJI}‌‎‌‎ᔕETᑌᑭ ᗪᗩTE `{Tare5}`** ٫
+**𖠄 ᘔE ᑌᔕEᖇᗷOT 𖠄**
+✪➫➫➫➫ᘔE➫➫➫➫✪"""
+
+
+
+
+

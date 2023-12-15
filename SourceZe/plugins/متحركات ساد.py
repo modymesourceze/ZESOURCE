@@ -1,11 +1,11 @@
-#edit  ~ @lMl10l for mody 
+#edit  ~ @ELHYBA for mody 
 
 from telethon import events
 from SourceZe.utils import admin_cmd
 from SourceZe import mody
 from . import *
  
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 plugin_category = "extra"
 @mody.ar_cmd(
@@ -15,15 +15,15 @@ plugin_category = "extra"
 async def tmgif(event):
     if event.fwd_from:
         return
-    lMl10l = await reply_id(event)
+    ELHYBA = await reply_id(event)
     if sad:
         mody = f"**˛ 𝙕𝞝 ، ٰ𝖦𝗂𝖿 𝖲ِ𝖺ٰ𝖣 . .**\n"
         mody += f"✛━━━━━━━━━━━━━✛\n"
         mody += f"**الـمتحـرڪـة الأولـى **"
-        await event.client.send_file(event.chat_id, sad, caption=mody, reply_to=lMl10l)
+        await event.client.send_file(event.chat_id, sad, caption=mody, reply_to=ELHYBA)
 
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 @mody.ar_cmd(
     pattern="س2$",
@@ -39,8 +39,8 @@ async def tmgif(event):
         RAZAN += f"**الـمتحـرڪـة الـثـانيـة **"
         await event.client.send_file(event.chat_id, sad2, caption=RAZAN, reply_to=leo)
 
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 @mody.ar_cmd(
     pattern="س3$",
@@ -56,8 +56,8 @@ async def tmgif(event):
         RAZAN += f"**الـمتحـرڪـة الـثـالثـة**\n"
         await event.client.send_file(event.chat_id, sad3, caption=RAZAN, reply_to=sic_id)
 
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 @mody.ar_cmd(
     pattern="س4$",
@@ -75,8 +75,8 @@ async def tmgif(event):
             event.chat_id, sad4, caption=RAZAN, reply_to=reply_to_id
         )
 
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 @mody.ar_cmd(
     pattern="س5$",
@@ -95,8 +95,8 @@ async def tmgif(event):
             event.chat_id, sad5, caption=RAZAN, reply_to=reply_to_id
         )
 
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 @mody.ar_cmd(
     pattern="س6$",
@@ -115,8 +115,8 @@ async def tmgif(event):
             event.chat_id, sad6, caption=RAZAN, reply_to=reply_to_id
         )
 
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك
 
 @mody.ar_cmd(
     pattern="س7$",
@@ -166,5 +166,5 @@ async def tmgif(event):
         await event.client.send_file(
             event.chat_id, sad9, caption=RAZAN, reply_to=reply_to_id
         )
-#edit  ~ @lMl10l for mody 
-#جميع الحقوق محفوظة لسـورس الجوكر تخـمط تبيـن فشلـك
+#edit  ~ @ELHYBA for mody 
+#جميع الحقوق محفوظة لسـورس زد إي تخـمط تبيـن فشلـك

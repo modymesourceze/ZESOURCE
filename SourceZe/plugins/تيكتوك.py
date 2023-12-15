@@ -1,5 +1,5 @@
 
-#Reda
+#Mody
 import asyncio 
 import shutil
 import requests
@@ -14,7 +14,7 @@ import math
 import base64
 from SourceZe import mody 
 #from ..Config import Config
-#By Reda
+#By Mody
 @mody.ar_cmd(pattern="تك")
 async def tiktok_dl(event):
     ms = event.message.message

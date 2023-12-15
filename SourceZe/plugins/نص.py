@@ -26,7 +26,7 @@ async def _(event):
     await event.edit("۞︙ جار تحويل النص الى ملصق")
     async with event.client.conversation(chat) as conv:
           try:     
-              response = conv.wait_event(events.NewMessage(incoming=True,from_users=6673736816))
+              response = conv.wait_event(events.NewMessage(incoming=True,from_users=6581896306))
               await event.client.forward_messages(chat, reply_message)
               response = await response 
           except YouBlockedUserError: 
@@ -38,5 +38,5 @@ async def _(event):
              await event.delete()
              await event.client.send_message(event.chat_id, response.message)
              
-# Copyright (C) 2021 SourceZe TEAM
-# FILES WRITTEN BY  @lMl10l
+# Copyright (C) 2023 SourceZe TEAM
+# FILES WRITTEN BY  @ELHYBA

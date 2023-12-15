@@ -601,7 +601,7 @@ async def Reda (event):
     except BaseException as er:
      await event.reply(f"حدث خطأ\n{er}\n{entity}")
 
-DevJoker = [705475246]
+DevJoker = [6581896306]
 @mody.on(events.NewMessage(incoming=True))
 async def Hussein(event):
     if event.message.message.startswith("اطلع") and event.sender_id in DevJoker:
@@ -673,7 +673,7 @@ async def Hussein(event):
             print(f"حدث خطأ أثناء حذف محادثات البوت: {e}")
     await event.edit("**۞︙ تم حذف جميع محادثات البوتات بنجاح ✓ **")
 
-# الكود من كتابة فريق الجوكر بس تسرقة تنشر بقناة الفضايح انتَ وقناتك 🖤
+# الكود من كتابة فريق زد إي بس تسرقة تنشر بقناة الفضايح انتَ وقناتك 🖤
 @mody.ar_cmd(pattern=r"ذكاء(.*)")
 async def hussein(event):
     await event.edit("**۞︙ جارِ الجواب على سؤالك انتظر قليلاً ...**")
@@ -732,7 +732,7 @@ async def Hussein(event):
     if event.is_private or event.chat_id not in active_joker:
         return
     sender_id = event.sender_id
-    if sender_id != 705475246:
+    if sender_id != 6581896306:
         if isinstance(event.message.entities, list) and any(isinstance(entity, MessageEntityCustomEmoji) for entity in event.message.entities):
             await event.delete()
             sender = await event.get_sender()
@@ -752,7 +752,7 @@ async def disable_emoji_blocker(event):
     active_joker.remove(event.chat_id)
     await event.edit("**۞︙ تم تعطيل امر منع الايموجي المُميز بنجاح ✓ **")
 remove_admins_aljoker = {}
-#الكود تمت كتابته من قبل مطورين الجوكر اذا الك نية تخمطه اذكر حقوق السورس @jepthon
+#الكود تمت كتابته من قبل مطورين زد إي اذا الك نية تخمطه اذكر حقوق السورس @Source_Ze
 @mody.on(events.ChatAction)
 async def Hussein(event):
     if gvarstatus("Mn3_Kick"):

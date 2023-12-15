@@ -44,7 +44,7 @@ async def _(event):
         if msgs.message.find('**⎉╎لا يوجد قنوات في الوقت الحالي .. قم يتجميع النقاط بطريقه مختلفه**') != -1:
             await mody.send_message(event.chat_id, "**⎉╎مـافي قنـوات بالبـوت حاليـاً ...**")
             break
-        if con == "ايقاف": #Code by T.me/UP_UO
+        if con == "ايقاف": #Code by T.me/ELHYBA
             await mody.send_message(event.chat_id, "**⎉╎تم إيقـاف تجميـع النقـاط .. بنجـاح☑️**")
             break
         url = msgs.reply_markup.rows[0].buttons[0].url
@@ -58,7 +58,7 @@ async def _(event):
             await msg2[0].click(text='تحقق')
             chs += 1
             await event.edit(f"**⎉╎تم الاشتـراك في القنـاة  {chs} ...✓**")
-        except: #Code by T.me/UP_UO
+        except: #Code by T.me/ELHYBA
             msg2 = await mody.get_messages('@MARKTEBOT', limit=1)
             await msg2[0].click(text='التالي')
             chs += 1
@@ -91,7 +91,7 @@ async def _(event):
         if msgs.message.find('**⎉╎لا يوجد قنوات في الوقت الحالي .. قم يتجميع النقاط بطريقه مختلفه**') != -1:
             await mody.send_message(event.chat_id, "**⎉╎مـافي قنـوات بالبـوت حاليـاً ...**")
             break
-        if con == "ايقاف": #Code by T.me/UP_UO
+        if con == "ايقاف": #Code by T.me/ELHYBA
             await mody.send_message(event.chat_id, "**⎉╎تم إيقـاف تجميـع النقـاط .. بنجـاح☑️**")
             break
         url = msgs.reply_markup.rows[0].buttons[0].url
@@ -105,7 +105,7 @@ async def _(event):
             await msg2[0].click(text='تحقق')
             chs += 1
             await event.edit(f"**⎉╎تم الاشتـراك في القنـاة  {chs} ...✓**")
-        except: #Code by T.me/UP_UO
+        except: #Code by T.me/ELHYBA
             msg2 = await mody.get_messages('@qweqwe1919bot', limit=1)
             await msg2[0].click(text='التالي')
             chs += 1
@@ -141,7 +141,7 @@ async def _(event):
         if msgs.message.find('**⎉╎لا يوجد قنوات في الوقت الحالي .. قم يتجميع النقاط بطريقه مختلفه**') != -1:
             await mody.send_message(event.chat_id, "**⎉╎مـافي قنـوات بالبـوت حاليـاً ...**")
             break
-        if con == "ايقاف": #Code by T.me/UP_UO
+        if con == "ايقاف": #Code by T.me/ELHYBA
             await mody.send_message(event.chat_id, "**⎉╎تم إيقـاف تجميـع النقـاط .. بنجـاح☑️**")
             break
         url = msgs.reply_markup.rows[0].buttons[0].url
@@ -155,7 +155,7 @@ async def _(event):
             await msg2[0].click(text='تحقق')
             chs += 1
             await event.edit(f"**⎉╎تم الاشتـراك في القنـاة  {chs} ...✓**")
-        except: #Code by T.me/UP_UO
+        except: #Code by T.me/ELHYBA
             msg2 = await mody.get_messages('@SMSMWAbot', limit=1)
             await msg2[0].click(text='التالي')
             chs += 1
@@ -188,7 +188,7 @@ async def _(event):
         if msgs.message.find('**⎉╎لا يوجد قنوات في الوقت الحالي .. قم يتجميع النقاط بطريقه مختلفه**') != -1:
             await mody.send_message(event.chat_id, "**⎉╎مـافي قنـوات بالبـوت حاليـاً ...**")
             break
-        if con == "ايقاف": #Code by T.me/UP_UO
+        if con == "ايقاف": #Code by T.me/ELHYBA
             await mody.send_message(event.chat_id, "**⎉╎تم إيقـاف تجميـع النقـاط .. بنجـاح☑️**")
             break
         url = msgs.reply_markup.rows[0].buttons[0].url
@@ -202,7 +202,7 @@ async def _(event):
             await msg2[0].click(text='تحقق')
             chs += 1
             await event.edit(f"**⎉╎تم الاشتـراك في القنـاة  {chs} ...✓**")
-        except: #Code by T.me/UP_UO
+        except: #Code by T.me/ELHYBA
             msg2 = await mody.get_messages('@Ncoe_bot', limit=1)
             await msg2[0].click(text='التالي')
             chs += 1
@@ -235,7 +235,7 @@ async def _(event):
         if msgs.message.find('**⎉╎لا يوجد قنوات في الوقت الحالي .. قم يتجميع النقاط بطريقه مختلفه**') != -1:
             await mody.send_message(event.chat_id, "**⎉╎مـافي قنـوات بالبـوت حاليـاً ...**")
             break
-        if con == "ايقاف": #Code by T.me/UP_UO
+        if con == "ايقاف": #Code by T.me/ELHYBA
             await mody.send_message(event.chat_id, "**⎉╎تم إيقـاف تجميـع النقـاط .. بنجـاح☑️**")
             break
         msg_text = msgs.message
@@ -290,7 +290,7 @@ async def _(event):
         if msgs.message.find('**⎉╎لا يوجد قنوات في الوقت الحالي .. قم يتجميع النقاط بطريقه مختلفه**') != -1:
             await mody.send_message(event.chat_id, "**⎉╎مـافي قنـوات بالبـوت حاليـاً ...**")
             break
-        if con == "ايقاف": #Code by T.me/UP_UO
+        if con == "ايقاف": #Code by T.me/ELHYBA
             await mody.send_message(event.chat_id, "**⎉╎تم إيقـاف تجميـع النقـاط .. بنجـاح☑️**")
             break
         url = msgs.reply_markup.rows[0].buttons[0].url
@@ -304,7 +304,7 @@ async def _(event):
             await msg2[0].click(text='تحقق')
             chs += 1
             await event.edit(f"**⎉╎تم الاشتـراك في القنـاة  {chs} ...✓**")
-        except: #Code by T.me/UP_UO
+        except: #Code by T.me/ELHYBA
             msg2 = await mody.get_messages(zpoint, limit=1)
             await msg2[0].click(text='التالي')
             chs += 1

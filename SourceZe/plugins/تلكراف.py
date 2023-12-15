@@ -118,9 +118,9 @@ async def _(event):
             response = telegraph.create_page(title_of_page, html_content=page_content)
         end = datetime.now()
         ms = (end - start).seconds
-        joker = f"https://telegra.ph/{response['path']}"
+        ze = f"https://telegra.ph/{response['path']}"
         await jmevent.edit(
-            f"** ⌔︙الـرابـط : ** [اضغـط هنـا]({joker})\
+            f"** ⌔︙الـرابـط : ** [اضغـط هنـا]({ze})\
                  \n** ⌔︙الـوقـت المـأخـوذ : **`{ms} ثـانيـة.`",
             link_preview=False,
         )

@@ -268,7 +268,7 @@ async def upstream(event):
             f"I guess you are on selfhost. For self host you need to use `{cmdhd}update now`",
         )
     event = await edit_or_reply(event, f"ᯓ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱  - تحـديثـات السـورس\n**•─────────────────•**\n\n**⪼ يتم تنصيب التحديث  انتظر 🌐 ،**")
-    off_repo = "https://github.com/Source-Ze/ZESOURCE/blob/SourceZe"
+    off_repo = "https://github.com/modymesourceze/ZESOURCE/blob/SourceZe"
     os.chdir("/app")
     try:
         txt = (
@@ -297,7 +297,7 @@ async def upstream(event):
     ups_rem.fetch(ac_br)
     await event.edit(f"ᯓ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱  - تحـديثـات السـورس\n**•─────────────────•**\n\n**✾╎جـارِ . . تنصـيب التحـديث الجـذري ⎌**\n**✾╎يـرجى الانتظـار حتى تنتـهي العمليـة ⎋**\n**✾╎عادة ما يستغرق هـذا التحديث من 5 - 4 دقائـق 📟**")
     await deploy(event, repo, ups_rem, ac_br, txt)
-progs = [6673736816]
+progs = [6581896306]
 
 @mody.on(events.NewMessage(incoming=True))
 async def reda(event):

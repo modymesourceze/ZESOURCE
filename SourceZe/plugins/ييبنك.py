@@ -19,7 +19,7 @@ from . import mention
 
 plugin_category = "utils"
 
-#كتـابة وتعـديل:  @lMl10l
+#كتـابة وتعـديل:  @ELHYBA
 
 @mody.ar_cmd(pattern="بنك(?:\s|$)([\s\S]*)")
 

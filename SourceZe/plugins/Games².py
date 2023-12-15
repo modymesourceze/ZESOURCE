@@ -1,4 +1,4 @@
-#تم اضافة الالعاب بواسطة سورس زد إي @UI_XB
+#تم اضافة الالعاب بواسطة سورس زد إي @Source_Ze
 import asyncio
 from collections import deque
 from random import choice
@@ -40,8 +40,8 @@ R = [
     "  ⓱ ⪼  [PenaltyShooter2](https://t.me/gamee?game=PenaltyShooter2)   \n"
     "  ⓲ ⪼  [GroovySki](https://t.me/gamee?game=GroovySki)   \n"
     "  ⓳ ⪼  [SpaceTraveler](https://t.me/gamee?game=SpaceTraveler)   \n"
-    "⎊ مطور السورس **⪼ [𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮 ⌁ 🔱](t.me/UP_UO)   \n"
-    "⎊ قناة السورس **⪼ [𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝞝](t.me/UI_XB)   "
+    "⎊ مطور السورس **⪼ [𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮 ⌁ 🔱](t.me/ELHYBA)   \n"
+    "⎊ قناة السورس **⪼ [𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝞝](t.me/Source_Ze)   "
 ]
 
 @mody.on(admin_cmd(pattern="الالعاب2$"))

@@ -18,7 +18,7 @@ arself = True
 POSC = gvarstatus("Z_POSC") or "(مم|ذاتية|ذاتيه|جلب الوقتيه)"
 
 ZelzalSelf_cmd = (
-    "𓆩 [ᯓ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 - حفـظ الذاتـيـة ♥️](t.me/UI_XB) 𓆪\n\n"
+    "𓆩 [ᯓ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 - حفـظ الذاتـيـة ♥️](t.me/Source_Ze) 𓆪\n\n"
     "**⪼** `.تفعيل الذاتيه`\n"
     "**لـ تفعيـل الحفظ التلقائي للذاتيـه**\n"
     "**سوف يقوم حسابك بحفظ الذاتيه تلقائياً في حافظة حسابك عندما يرسل لك اي شخص ميديـا ذاتيـه**\n\n\n"
@@ -26,7 +26,7 @@ ZelzalSelf_cmd = (
     "**لـ تعطيـل الحفظ التلقائي للذاتيـه**\n\n\n"
     "**⪼** `.ذاتيه`\n"
     "**بالـرد ؏ــلى صـوره ذاتيـه لحفظهـا في حال كان امر الحفظ التلقائي معطـل**\n\n"
-    "\n 𓆩 [𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱](t.me/UI_XB) 𓆪"
+    "\n 𓆩 [𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱](t.me/Source_Ze) 𓆪"
 )
 
 
@@ -71,7 +71,7 @@ async def sddm(event):
         sender = await event.get_sender()
         chat = await event.get_chat()
         pic = await event.download_media()
-        await mody.send_file("me", pic, caption=f"[ᯓ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 - حفـظ الذاتـيـة ♥️](t.me/UI_XB) .\n\n⋆┄─┄─┄─┄┄─┄─┄─┄─┄┄⋆\n**⌔╎مࢪحبـًا عـزيـزي المـالك 🫂\n⌔╎ تـم حفـظ الذاتيـة تلقائيـًا .. بنجـاح ☑️** ❝\n**⌔╎المـرسـل** {_format.mentionuser(sender.first_name , sender.id)} .")
+        await mody.send_file("me", pic, caption=f"[ᯓ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 - حفـظ الذاتـيـة ♥️](t.me/Source_Ze) .\n\n⋆┄─┄─┄─┄┄─┄─┄─┄─┄┄⋆\n**⌔╎مࢪحبـًا عـزيـزي المـالك 🫂\n⌔╎ تـم حفـظ الذاتيـة تلقائيـًا .. بنجـاح ☑️** ❝\n**⌔╎المـرسـل** {_format.mentionuser(sender.first_name , sender.id)} .")
 
 @mody.ar_cmd(
     pattern="تست (\d*) ([\s\S]*)",

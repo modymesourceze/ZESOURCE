@@ -1,5 +1,5 @@
 # By Reda for SourceZe
-# Tel: @rd0r0
+# Tel: @ELHYBA
 # شعندك داخل للملف تريد تخمطة ههههههههه اخمط ونسبة لنفسك ماوصيك :*
 from SourceZe import mody
 import asyncio

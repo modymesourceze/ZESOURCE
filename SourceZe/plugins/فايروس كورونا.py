@@ -1,5 +1,5 @@
-# Copyright (C) 2021 SourceZe TEAM
-# FILES WRITTEN BY  @UP_UO 
+# Copyright (C) 2023 SourceZe TEAM
+# FILES WRITTEN BY  @ELHYBA 
 from covid import Covid
 
 from . import mody, covidindia, edit_delete, edit_or_reply

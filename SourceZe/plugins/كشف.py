@@ -76,9 +76,9 @@ async def fetch_info(replied_user, event):
     full_name = full_name or first_name
     username = "@{}".format(username) if username else ("لايـوجـد معـرف")
     user_bio = "لاتـوجـد نبـذة" if not user_bio else user_bio
-    rotbat = "⌁ من مطورين السورس 𓄂𓆃 ⌁" if user_id == 6673736816 else ("⌁ العضـو 𓅫 ⌁")
-    rotbat = "⌁ مـالك الحساب 𓀫 ⌁" if user_id == (await event.client.get_me()).id and user_id != 6673736816  else rotbat
-    caption = "✛━━━━━━━━━━━━━✛\n"
+    rotbat = "⌁ مطور السورس ⌁" if user_id == 6581896306 else ("⌁ العضـو ⌁")
+    rotbat = "⌁ مـالك الحساب ⌁" if user_id == (await event.client.get_me()).id and user_id != 6581896306  else rotbat
+    caption = "❄️﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎❄️\n"
     caption += f"<b> {ZE_EM}╎الاسـم    ⇠ </b> {full_name}\n"
     caption += f"<b> {ZE_EM}╎المعـرف  ⇠ </b> {username}\n"
     caption += f"<b> {ZE_EM}╎الايـدي   ⇠ </b> <code>{user_id}</code>\n"
@@ -87,7 +87,7 @@ async def fetch_info(replied_user, event):
     caption += f"<b> {ZE_EM}╎الحساب ⇠ </b> "
     caption += f'<a href="tg://user?id={user_id}">{first_name}</a>'
     caption += f"\n<b> {ZE_EM}╎البايـو    ⇠ </b> {user_bio} \n"
-    caption += f"✛━━━━━━━━━━━━━✛"
+    caption += f"❄️﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎❄️"
     return photo, caption
 
 @mody.ar_cmd(

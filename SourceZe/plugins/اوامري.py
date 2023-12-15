@@ -9,7 +9,7 @@ from SourceZe import mody
 from ..core import check_owner
 from ..Config import Config
 
-ZE_IC = "https://telegra.ph/file/dd6c46b812395a1b607e9.jpg"
+ZE_IC = "https://telegra.ph/file/c4f9c850312c8891385a9.jpg"
 ROE = "**۞ هـذه هي قائمة اوامـر سـورس زد إي ۞**"
 
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:

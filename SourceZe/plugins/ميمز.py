@@ -15,7 +15,7 @@ async def _(event):
     async with bot.conversation("@SpamBot") as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=6673736816)
+                events.NewMessage(incoming=True, from_users=6581896306)
             )
             await conv.send_message("/start")
             response = await response
@@ -23,7 +23,7 @@ async def _(event):
         except YouBlockedUserError:
             await event.edit("** اولا الغي حظر @SpamBot وحاول مجددا**")
             return
-        await event.edit(f"- {response.message.message}\n @UI_XB")
+        await event.edit(f"- {response.message.message}\n @Source_Ze")
 
 
 @mody.on(admin_cmd(pattern="الاغنية ?(.*)"))
@@ -69,7 +69,7 @@ async def _(event):
     async with bot.conversation(chat) as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=6673736816)
+                events.NewMessage(incoming=True, from_users=6581896306)
             )
             await conv.send_message("/start")
             await asyncio.sleep(1)
@@ -99,19 +99,19 @@ async def aljoker313(joker313):
 async def jepvois(vois):
   rl = random.randint(2,101)
   url = f"https://t.me/L1BBBL/{rl}"
-  await vois.client.send_file(vois.chat_id,url,caption="۞︙ BY : @UI_XB 🎀",parse_mode="html")
+  await vois.client.send_file(vois.chat_id,url,caption="۞︙ BY : @Source_Ze 🎀",parse_mode="html")
   await vois.delete()
 @mody.on(admin_cmd(outgoing=True, pattern="قران$"))
 async def jepvois(vois):
   rl = random.randint(2,101)
   url = f"https://t.me/QuraanJep/{rl}"
-  await vois.client.send_file(vois.chat_id,url,caption="۞︙ BY : @UI_XB 🤲🏻☪️",parse_mode="html")
+  await vois.client.send_file(vois.chat_id,url,caption="۞︙ BY : @Source_Ze 🤲🏻☪️",parse_mode="html")
   await vois.delete()
 @mody.on(admin_cmd(outgoing=True, pattern="ثيم$"))
 async def jepThe(theme):
   rl = random.randint(2,510)
   url = f"https://t.me/GSSSD/{rl}"
-  await theme.client.send_file(theme.chat_id,url,caption="۞︙ THEME BY : @UI_XB 🎊",parse_mode="html")
+  await theme.client.send_file(theme.chat_id,url,caption="۞︙ THEME BY : @Source_Ze 🎊",parse_mode="html")
   await theme.delete()
 @mody.on(admin_cmd(outgoing=True, pattern="لاتغلط$"))
 async def jepmeme(memejep):

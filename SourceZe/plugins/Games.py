@@ -65,8 +65,8 @@ R = [
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n"
-    "**-** مطور السورس **⪼ [𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮 ⌁ 🔱](t.me/UP_UO)   \n"
-    "**-** قناة السورس **⪼ [𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝞝](t.me/UI_XB)   "
+    "**-** مطور السورس **⪼ [𐇮 𝑴𝑶𝑫𝒀 𖠮🚸𖠮 آلـۘهہؚيـٰـ‌ُـُ໋۠بـ໋ۘ۠ه 𐇮 ⌁ 🔱](t.me/ELHYBA)   \n"
+    "**-** قناة السورس **⪼ [𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝞝](t.me/Source_Ze)   "
 ]
 
 @mody.on(admin_cmd(pattern="الالعاب$"))

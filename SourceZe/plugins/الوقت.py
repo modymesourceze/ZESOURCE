@@ -110,8 +110,7 @@ async def time_func(tdata):
             f"({time_zone} timezone).`",
         )
 
-#كـتابة  @lMl10l
-#تعديل وترتيب  @KiNGBrlin
+#كـتابة  @ELHYBA
 @mody.ar_cmd(
     pattern="الوقت(?:\s|$)([\s\S]*)",
     command=("الوقت", plugin_category),

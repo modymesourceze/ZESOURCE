@@ -10,7 +10,7 @@ from ..utils import is_admin
 
 plugin_category = "admin"
 
-#copyright for SourceZe © 2021
+#copyright for SourceZe © 2023
 @mody.ar_cmd(incoming=True, groups_only=True)
 async def on_new_message(event):
     name = event.raw_text

@@ -1,5 +1,5 @@
-# Copyright (C) 2021 SourceZe TEAM
-# FILES WRITTEN BY  @lMl10l
+# Copyright (C) 2023 SourceZe TEAM
+# FILES WRITTEN BY  @ELHYBA
 import asyncio
 
 from telethon.errors.rpcerrorlist import YouBlockedUserError
@@ -28,7 +28,7 @@ plugin_category = "utils"
         "examples": "{tr}sg @missrose_bot",
     },
 )
-async def _(event):  #   : @lMl10l
+async def _(event):  #   : @ELHYBA
     "To get name/username history."
     input_str = "".join(event.text.split(maxsplit=1)[1:])
     reply_message = await event.get_reply_message()

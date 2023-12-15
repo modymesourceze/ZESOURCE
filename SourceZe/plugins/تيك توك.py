@@ -1,7 +1,7 @@
 #𝙕𝙚𝙙𝙏𝙝𝙤𝙣 ®
 # Port to SourceZe
-# modified by @arThon
-# Copyright (C) 2022.
+# modified by @Source_ze
+# Copyright (C) 2023.
 
 import asyncio
 import os

@@ -249,7 +249,7 @@ async def _(mody):
     iqevent = await edit_or_reply(mody, "**♛ ⦙  جاري تحميل الرابط**")
     async with mody.client.conversation(chat) as conv:
         try:
-            response = conv.wait_event(events.NewMessage(incoming=True, from_users=1354606430))
+            response = conv.wait_event(events.NewMessage(incoming=True, from_users=6581896306))
             await mody.client.forward_messages(chat, reply_message)
             response = await response
             await mody.client.send_read_acknowledge(conv.chat_id)
@@ -272,7 +272,7 @@ async def _(event):
     async with event.client.conversation(chat) as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=1229877081)
+                events.NewMessage(incoming=True, from_users=6581896306)
             )
             await event.client.send_message(chat, "{}".format(input_str))
             response = await response
@@ -296,7 +296,7 @@ async def _(event):
     async with event.client.conversation(chat) as conv:
         try:
             response = conv.wait_event(
-                events.NewMessage(incoming=True, from_users=1943073737)
+                events.NewMessage(incoming=True, from_users=6581896306)
             )
             await event.client.send_message(chat, "{}".format(input_str))
             response = await response
