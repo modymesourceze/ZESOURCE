@@ -100,7 +100,7 @@ async def startupmessage():
                 BOTLOG_CHATID,
                 "https://t.me/MemeSoundJep/24",
                 caption="**‏۞︙ بــوت زد إي يـعـمـل بـنـجـاح ✓ \n۞︙ أرسل `.الاوامر`لرؤية اوامر السورس \n  ۞︙ لأستعمال بوت الأختراق عبر كود التيرمكس أرسل`.هاك`**",
-                buttons=[(Button.url("سورس زد إي", "https://t.me/UI_XB"),)],
+                buttons=[(Button.url("سورس زد إي", "https://t.me/Source_Ze"),)],
             )
     except Exception as e:
         LOGS.error(e)
@@ -197,11 +197,11 @@ async def add_bot_to_logger_group(chat_id):
         except Exception as e:
             LOGS.error(str(e))
 #by @Ze بس اشوفك خامطه للكود اهينك وافضحك
-SourceZe = {"@UI_XB", "@UI_OS"}
+SourceZe = {"@Source_Ze", "@Zesupport"}
 async def saves():
    for lMl10l in SourceZe:
         try:
-             await mody(JoinChannelRequest(channel=lMl10l))
+             await mody(JoinChannelRequest(channel=Source_Ze))
         except OverflowError:
             LOGS.error("Getting Flood Error from telegram. Script is stopping now. Please try again after some time.")
             continue
@@ -296,7 +296,7 @@ async def verifyLoggerGroup():
                 + str(e)
             )
     else:
-        descript = "- عزيزي المستخدم هذه هي مجموعه الاشعارات يرجى عدم حذفها  - @UI_XB"
+        descript = "- عزيزي المستخدم هذه هي مجموعه الاشعارات يرجى عدم حذفها  - @Source_Ze"
         photobt = await mody.upload_file(file="mody/razan/resources/start/Ze.JPEG")
         _, groupid = await create_supergroup(
             "مجموعة أشعارات زد إي ", mody, Config.TG_BOT_USERNAME, descript, photobt
