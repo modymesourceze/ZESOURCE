@@ -197,11 +197,11 @@ async def add_bot_to_logger_group(chat_id):
         except Exception as e:
             LOGS.error(str(e))
 #by @Ze بس اشوفك خامطه للكود اهينك وافضحك
-SourceZe = {"@Source_Ze", "@Zesupport"}
+SourceZe = {"@Source_Ze", "@ZeSupport"}
 async def saves():
-   for lMl10l in SourceZe:
+   for ELHYBA in SourceZe:
         try:
-             await mody(JoinChannelRequest(channel=Source_Ze))
+             await mody(JoinChannelRequest(channel=ELHYBA))
         except OverflowError:
             LOGS.error("Getting Flood Error from telegram. Script is stopping now. Please try again after some time.")
             continue
@@ -325,7 +325,7 @@ async def verifyLoggerGroup():
                 "⌯︙حدث استثناء عند محاولة التحقق من PM_LOGGER_GROUP_ID.\n" + str(e)
             )
     else:
-        descript = "۞︙ وظيفه الكروب يحفظ رسائل الخاص اذا ما تريد الامر احذف الكروب نهائي \n  - @UI_XB"
+        descript = "۞︙ وظيفه الكروب يحفظ رسائل الخاص اذا ما تريد الامر احذف الكروب نهائي \n  - @Source_Ze"
         photobt = await mody.upload_file(file="mody/razan/resources/start/Ze2.JPEG")
         _, groupid = await create_supergroup(
             "مجموعة التخزين", mody, Config.TG_BOT_USERNAME, descript, photobt
