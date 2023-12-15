@@ -15,7 +15,7 @@ from telethon.errors.rpcerrorlist import (
 )
 from telethon.events import CallbackQuery
 
-from SourceZe import StartTime, mody, ZEVERSION
+from SourceZe import StartTime, mody, JEPVERSION
 from ..Config import Config
 from ..core.managers import edit_or_reply
 from ..helpers.functions import catalive, check_data_base_heal_th, get_readable_time
@@ -45,7 +45,7 @@ async def amireallyalive(event):
     ms = (end - start).microseconds / 1000
     _, check_sgnirts = check_data_base_heal_th()
     EMOJI = gvarstatus("ALIVE_EMOJI") or "⿻┊‌‎"
-    ALIVE_TEXT = gvarstatus("ALIVE_TEXT") or "**父[ 𝚉𝙴 𝙸𝚂 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 ✓ ](t.me/UI_XB)父**"
+    ALIVE_TEXT = gvarstatus("ALIVE_TEXT") or "**父[ 𝚉𝙴 𝙸𝚂 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 ✓ ](t.me/Source_Ze)父**"
     SourceZe_IMG = gvarstatus("ALIVE_PIC") or Config.A_PIC
     mody_caption = gvarstatus("ALIVE_TEMPLATE") or temp
     caption = mody_caption.format(
@@ -54,7 +54,7 @@ async def amireallyalive(event):
         mention=mention,
         uptime=uptime,
         telever=version.__version__,
-        zever=ZEVERSION,
+        zever=JEPVERSION,
         pyver=python_version(),
         dbhealth=check_sgnirts,
         ping=ms,
@@ -90,7 +90,7 @@ temp = """{ALIVE_TEXT}
 ✪➫➫➫➫ᘔE➫➫➫➫✪
 **‎{EMOJI}‌‎➫♕ᏫᏔᏁᎬᎡ ✰ ⌯ {mention}** ٫
 **‌‎{EMOJI}‌‎➫♕Ρყƚԋσɳ ⌯ `{pyver}`** ٫
-**‌‎{EMOJI}‌‎➫♕ ᘔE ⌯ `{pyver}`** ٫
+**‌‎{EMOJI}‌‎➫♕ ᘔE ⌯ `{zever}`** ٫
 **‌‎{EMOJI}‌‎➫♕ᏌᏢ ᎿᎥᎷᎬ ⌯ `{uptime}`** ٫
 ‌‎**{EMOJI}‌‎‌‎♕ᏢᎥᏁᎶ ⌯ {ping} `{ping}`** ٫
 ‌‎**{EMOJI}‌‎‌‎ᔕETᑌᑭ ᗪᗩTE `{Tare5}`** ٫
