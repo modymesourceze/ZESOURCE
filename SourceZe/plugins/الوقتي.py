@@ -11,7 +11,7 @@ import shutil
 import time
 from datetime import datetime
 from telethon import events
-from ALJoker import get_string
+from Ze import get_string
 from telethon.errors import ChatAdminRequiredError
 from PIL import Image, ImageDraw, ImageFont
 from pySmartDL import SmartDL
@@ -42,7 +42,7 @@ auto_group_photo_path = os.path.join(os.getcwd(), "SourceZe", "photo_pfp.png")
 
 digitalpfp = Config.DIGITAL_PIC or "https://telegra.ph/file/63a826d5e5f0003e006a0.jpg"
 digitalgrouppfp = Config.DIGITAL_GROUP_PIC or "https://telegra.ph/file/63a826d5e5f0003e006a0.jpg"
-ELHYBA = Config.TIME_ZE or ""
+ELHYBA = Config.TIME_JEP or ""
 ze = Config.DEFAULT_PIC or "SourceZe/helpers/styles/PaybAck.ttf"
 normzltext = "1234567890"
 namerzfont = Config.JP_FN or "𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵𝟬"
