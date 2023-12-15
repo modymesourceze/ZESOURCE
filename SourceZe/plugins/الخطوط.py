@@ -1,4 +1,4 @@
-# Reda - Hussein
+# Mody
 # © SourceZe Team 2023
 # ها شعدك داخل ع الملف تريد تخمط ؟ ابو زربة لهل درجة فاشل  
 from telethon import events

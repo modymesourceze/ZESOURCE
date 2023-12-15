@@ -1,4 +1,4 @@
-#    جميع الحقوق محفوظة كتابة وتعديل  :   @lMl10l
+#    جميع الحقوق محفوظة كتابة وتعديل  :   @ELHYBA
 #    اخمط مع ذكر الحقوق غيرها انت مطور فاشل
 marculs=9
 from telethon.errors.rpcerrorlist import (UserIdInvalidError,
@@ -43,7 +43,7 @@ async def get_full_user(event):
         try:
             user_obj = await event.client.get_entity(user)
         except Exception as err:
-            return await event.edit("▾∮ هنالك خطأ يرجى تبليغنا @UI_XB", str(err))           
+            return await event.edit("▾∮ هنالك خطأ يرجى تبليغنا @Source_Ze", str(err))           
     return user_obj, extra
 
 global hawk,moth

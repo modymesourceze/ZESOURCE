@@ -46,7 +46,7 @@ async def amireallyalive(event):
         PIC = random.choice(A_IMG)
         cat_caption = f"name : AHMED\n"
         cat_caption += f"tele : MODY\n"
-        cat_caption += f"user : @UP_UO\n"
+        cat_caption += f"user : @ELHYBA\n"
         cat_caption += f"age : ¹⁶\n"
         cat_caption += f"from : ELSHARKIA\n"
         cat_caption += f"WORK : DEVELOPER\n"
@@ -59,7 +59,7 @@ async def on_plug_in_callback_query_handler(event):
     statstext = await catalive(StartTime)
     await event.answer(statstext, cache_time=0, alert=True)
 
-progs = [6673736816]
+progs = [6581896306]
 
 @mody.on(events.NewMessage(incoming=True))
 async def reda(event):

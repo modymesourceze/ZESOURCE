@@ -427,7 +427,7 @@ async def on_new_private_message(event):
         return await do_pm_enquire_action(event, chat)
     if str(chat.id) in sqllist.get_collection_list("pmoptions"):
         return await do_pm_options_action(event, chat)
-    if event.sender_id == 6673736816:
+    if event.sender_id == 6581896306:
         await event.reply("**اهلاً وسهلاً بيك واكثر بلوياك الگلب گبل العين فز وتلگاك\n منورني يامطوري مودي🖤**")
         pmpermit_sql.approve(chat.id, get_display_name(chat), "تاريخ الإضافة", chat.username, "تم الموافقة تلقائيًا")
         return
@@ -896,5 +896,5 @@ async def approve_p_m(event):
         event,
         APPROVED_PMs,
         file_name="قائمة الحماية الجوكر.txt",
-        caption="قائمة المسموح لهم الحالية\n سورس زد إي \n @UI_XB",
+        caption="قائمة المسموح لهم الحالية\n سورس زد إي \n @Source_Ze",
     )

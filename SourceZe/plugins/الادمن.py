@@ -1,5 +1,5 @@
-# edit ~ @lMl10l
-# for ~ @jepthon
+# edit ~ @ELHYBA
+# for ~ @Source_Ze
 
 from asyncio import sleep
 
@@ -39,7 +39,7 @@ NO_ADMIN = "**۞︙ أنا لست مشرف هنا!!** "
 NO_PERM = "**۞︙ ليس لدي أذونات كافية!** "
 CHAT_PP_CHANGED = "**۞︙ تم تغيير صورة الدردشة بنجاح ✅**"
 INVALID_MEDIA = "**۞︙ ملحق غير صالح** "
-joker_ban = "https://telegra.ph/file/33e1d0caed6a72e7c5a08.jpg"
+ze_ban = "https://telegra.ph/file/33e1d0caed6a72e7c5a08.jpg"
 BANNED_RIGHTS = ChatBannedRights(
     until_date=None,
     view_messages=True,
@@ -240,7 +240,7 @@ async def endmute(event):
     user, reason = await get_user_from_event(event)
     if not user:
         return
-    if user.id == 6673736816:
+    if user.id == 6581896306:
         return await edit_delete(event, "**- لا يمڪنني حظر مطـوري دي لك**")
     catevent = await edit_or_reply(event, "۞︙ يـتم طـرد الـمستخدم أنتـظر")
     try:
@@ -267,13 +267,13 @@ async def endmute(event):
     groups_only=True,
     require_admin=True,
 )
-async def jokerban(event):
+async def zeban(event):
     "۞︙ لحـظر شخص في كـروب مـعين"
     await event.delete()
     user, reason = await get_user_from_event(event)
     if not user:
         return
-    if user.id == 6673736816:
+    if user.id == 6581896306:
         return await edit_delete(event, "**- لا يمڪنني حظر مطـوري دي لك**")
     try:
         await event.client(EditBannedRequest(event.chat_id, user.id, BANNED_RIGHTS))
@@ -288,13 +288,13 @@ async def jokerban(event):
     if reason:
         await event.client.send_file(
             event.chat_id,
-            joker_ban,
+            ze_ban,
             caption=f"۞︙ المسـتخدم {_format.mentionuser(user.first_name, user.id)} \n ۞︙ تـم حـظره بنـجاح !!\n**⌔︙السبب : **`{reason}`"
         )
     else:
         await event.client.send_file(
             event.chat_id,
-            joker_ban,
+            ze_ban,
             caption=f"۞︙ المسـتخدم {_format.mentionuser(user.first_name, user.id)} \n ۞︙ تـم حـظره بنـجاح ✅"
         )
     if BOTLOG:

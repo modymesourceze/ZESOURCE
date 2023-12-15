@@ -1,4 +1,4 @@
-# by: t.me/UI_XB  ~ t.me/UP_UO
+# by: t.me/Source_Ze  ~ t.me/ELHYBA
 
 import random
 
@@ -127,7 +127,7 @@ async def _(event):
 الامر:  `.حالة التثبيت`
 • لمعرفة عدد المحاولات للصيد
 
-@UI_XB  - channle userbot 
+@Source_Ze  - channle userbot 
 
 """
     )
@@ -141,7 +141,7 @@ async def hunterusername(event):
         ch = await mody(
             functions.channels.CreateChannelRequest(
                 title="ZE HUNTER - صيد زد إي",
-                about="This channel to hunt username by - @UI_XB  ",
+                about="This channel to hunt username by - @Source_Ze  ",
             )
         )
         ch = ch.updates[1].channel_id
@@ -169,20 +169,20 @@ async def hunterusername(event):
                 )
                 await event.client.send_file(
                     event.chat_id,
-                    "https://t.me/UI_XB /2",
-                    caption="🔱 ze the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Type: {}\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @UI_XB  - @UP_UO ❳ ".format(
+                    "https://t.me/Source_Ze /2",
+                    caption="🔱 ze the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Type: {}\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @Source_Ze  - @ELHYBA ❳ ".format(
                         username, trys, choice
                     ),
                 )
                 await event.client.send_file(
                     ch,
-                    "https://t.me/UI_XB /2",
-                    caption="🔱 ze the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Type: {}\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @UI_XB  - @UP_UO ❳ ".format(
+                    "https://t.me/Source_Ze /2",
+                    caption="🔱 ze the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Type: {}\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @Source_Ze  - @ELHYBA ❳ ".format(
                         username, trys, choice
                     ),
                 )
                 await event.client.send_message(
-                    "@UP_UO", f"- Done : @{username} !\n- By : @UP_UO - @UI_XB  !"
+                    "@ELHYBA", f"- Done : @{username} !\n- By : @ELHYBA - @Source_Ze  !"
                 )
                 sedmod = False
                 break
@@ -229,7 +229,7 @@ async def _(event):
             ch = await mody(
                 functions.channels.CreateChannelRequest(
                     title="ZE HUNTER - تثبيت زد إي",
-                    about="This channel to hunt username by - @UI_XB  ",
+                    about="This channel to hunt username by - @Source_Ze  ",
                 )
             )
             ch = ch.updates[1].channel_id
@@ -254,21 +254,21 @@ async def _(event):
                 )
                 await event.client.send_file(
                     ch,
-                    "https://t.me/UI_XB /2",
-                    caption="🔱 ze the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @UI_XB  - @UP_UO ❳ ".format(
+                    "https://t.me/Source_Ze /2",
+                    caption="🔱 ze the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @Source_Ze  - @ELHYBA ❳ ".format(
                         username, trys2
                     ),
                 )
                 await event.client.send_file(
                     event.chat_id,
-                    "https://t.me/UI_XB /2",
-                    caption="🔱 zd the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @UI_XB  - @UP_UO ❳ ".format(
+                    "https://t.me/Source_Ze /2",
+                    caption="🔱 zd the best 🔱\n- - - - - - - - - - - - - - - - - - - - - - - -\n- UserName: ❲ @{} ❳\n- ClickS: ❲ {} ❳\n- Save: ❲ Chaneel ❳\n- - - - - - - - - - - - - - - - - - - - - - - -\nThE KiNgS ❲ @Source_Ze  - @ELHYBA ❳ ".format(
                         username, trys2
                     ),
                 )
                 await event.client.send_message(
-                    "@UP_UO",
-                    f"- Done : @{username} !\n- By : @UP_UO - @UI_XB  !\n- Hunting Log {trys2}",
+                    "@ELHYBA",
+                    f"- Done : @{username} !\n- By : @ELHYBA - @Source_Ze  !\n- Hunting Log {trys2}",
                 )
                 swapmod = False
                 break

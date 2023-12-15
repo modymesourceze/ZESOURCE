@@ -1,5 +1,5 @@
 # Copyright (C) 2021 SourceZe TEAM
-# FILES WRITTEN BY  @UP_UO
+# FILES WRITTEN BY  @ELHYBA
 import html
 import base64
 from telethon.tl.functions.channels import GetFullChannelRequest
@@ -24,7 +24,7 @@ DEFAULTUSER = str(AUTONAME) if AUTONAME else str(ALIVE_NAME)
 DEFAULTUSERBIO = (
     str(DEFAULT_BIO)
     if DEFAULT_BIO
-    else "الحمد لله دائماً وابداً 🎀 𝑆𝐻 : @UI_XB"
+    else "الحمد لله دائماً وابداً 🎀 𝑆𝐻 : @Source_Ze"
 )
 
 @mody.ar_cmd(pattern="انتحال(?:\s|$)([\s\S]*)")
@@ -34,7 +34,7 @@ async def _(event):
     replied_user, error_i_a = await get_user_from_event(event)
     if replied_user is None:
         return await edit_delete(event, "**يجب الرد على رسالة اولاً**")
-    if replied_user.id == 6673736816:
+    if replied_user.id == 6581896306:
         return await edit_delete(event, "**لا تحاول تنتحل المطورين ادبسز!**")
     user_id = replied_user.id
     first_name = html.escape(replied_user.first_name)
@@ -164,7 +164,7 @@ async def reda(event):
         message = base64.b64decode(base64m)
         messageo = message.decode()
         if len(messageo) != 8:
-            return await edit_delete(event, "لا تغير الرسالة @UI_XB")
+            return await edit_delete(event, "لا تغير الرسالة @Source_Ze")
         if BOTLOG:
             await event.client.send_message(
                 BOTLOG_CHATID,

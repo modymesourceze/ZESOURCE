@@ -1,9 +1,7 @@
-# ar-Thon
-# Copyright (C) 2023 ar-Thon . All Rights Reserved
+# Source-Ze
+# Copyright (C) 2023 Source Ze . All Rights Reserved
 #
-# This file is a part of < https://github.com/ar-Thon/ZelZal/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/ar-Thon/ZelZal/blob/master/LICENSE/>.
 
 import asyncio
 import requests
@@ -31,12 +29,12 @@ LOGS = logging.getLogger(__name__)
 spam_chats = []
 
 # =========================================================== #
-#                           الملـــف كتـــابـــة مـــن الصفـــر - T.me/UI_XB                           #
+#                           الملـــف كتـــابـــة مـــن الصفـــر - T.me/Source_Ze                           #
 # =========================================================== #
 Warn = "تخمـط بـدون ذكـر المصـدر - ابلعــك نعــال وراح اهينــك"
-arTHON_BEST_SOURCE = "[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة خـاص 🚹](t.me/UI_XB) .\n\n**- جـارِ الاذاعـه خـاص لـ أعضـاء الكـروب 🛗\n- الرجـاء الانتظـار .. لحظـات ⏳**"
-arTHON_PRO_SOURCE = "[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة زاجـل 🕊](t.me/UI_XB) .\n\n**- جـارِ الاذاعـه لـ قائمـة زاجـل 📜\n- الرجـاء الانتظـار .. لحظـات ⏳**"
-ZELZAL_PRO_DEV = "[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة زاجـل 🕊](t.me/UI_XB) .\n⋆┄─┄─┄─┄┄─┄─┄─┄─┄┄⋆\n**⎉╎قائمـة الاذاعـه فارغـه ؟! ❌**\n**⎉╎قم باضافة يوزرات عبـر الامر**\n`.اضف زاجل` **بالـرد ع عدة يوزرات تفصل بينهم مسافات**"
+arTHON_BEST_SOURCE = "[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة خـاص 🚹](t.me/Source_Ze) .\n\n**- جـارِ الاذاعـه خـاص لـ أعضـاء الكـروب 🛗\n- الرجـاء الانتظـار .. لحظـات ⏳**"
+arTHON_PRO_SOURCE = "[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة زاجـل 🕊](t.me/Source_Ze) .\n\n**- جـارِ الاذاعـه لـ قائمـة زاجـل 📜\n- الرجـاء الانتظـار .. لحظـات ⏳**"
+ZELZAL_PRO_DEV = "[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة زاجـل 🕊](t.me/Source_Ze) .\n⋆┄─┄─┄─┄┄─┄─┄─┄─┄┄⋆\n**⎉╎قائمـة الاذاعـه فارغـه ؟! ❌**\n**⎉╎قم باضافة يوزرات عبـر الامر**\n`.اضف زاجل` **بالـرد ع عدة يوزرات تفصل بينهم مسافات**"
 # =========================================================== #
 #                                      مودي الهيبـــه - T.me/UP_UO                                  #
 # =========================================================== #
@@ -91,7 +89,7 @@ async def malath(event):
                 success += 1
             except BaseException:
                 return
-    ZELZAL_BEST_DEV = f"[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة خـاص 🚹](t.me/UI_XB) .\n\n**⎉╎تمت الاذاعـه لـ اعضـاء الكـروب .. بنجـاح  ✅**\n**⎉╎عـدد {success} عضـو**"
+    ZELZAL_BEST_DEV = f"[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة خـاص 🚹](t.me/Source_Ze) .\n\n**⎉╎تمت الاذاعـه لـ اعضـاء الكـروب .. بنجـاح  ✅**\n**⎉╎عـدد {success} عضـو**"
     await zelzal.edit(ZELZAL_BEST_DEV, link_preview=False)
     try:
         spam_chats.remove(chat_id)
@@ -154,6 +152,6 @@ async def malath(event):
                 pass
             except Exception as e:
                 zzz.edit(f"خطأ في إرسال الرسالة إلى {user_entity.id}: {str(e)}")
-    ZELZAL_BEST_DEV = f"[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة زاجـل 🕊](t.me/UI_XB) .\n⋆┄─┄─┄─┄┄─┄─┄─┄─┄┄⋆\n**⎉╎تمت الاذاعـه .. بنجـاح  ✅**\n**⎉╎عـدد {success} أشخـاص**"
+    ZELZAL_BEST_DEV = f"[ᯓ 𝐙𝐄 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اذاعـة زاجـل 🕊](t.me/Source_Ze) .\n⋆┄─┄─┄─┄┄─┄─┄─┄─┄┄⋆\n**⎉╎تمت الاذاعـه .. بنجـاح  ✅**\n**⎉╎عـدد {success} أشخـاص**"
     await zzz.edit(ZELZAL_BEST_DEV, link_preview=False)
 

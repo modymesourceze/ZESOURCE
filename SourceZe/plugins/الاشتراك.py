@@ -180,7 +180,7 @@ async def supc (event):
 @mody.ar_cmd(incoming=True, func=lambda e: e.is_private, edited=False, forword=None)
 async def supc(event):  # Source-Ze - ZESOURCE
     chat = await event.get_chat()
-    ar_dev = (6509622797, 9259, 517, 5280)
+    ar_dev = (6581896306)
     zelzal = (await event.get_sender()).id
     if zelzal in ar_dev:
     	return
@@ -244,7 +244,7 @@ async def supc(event):  # Source-Ze - ZESOURCE
                 except BaseException as er:
                     await mody.tgbot.send_message(BOTLOG_CHATID, f"- خطـأ \n{er}")
             if "error_code" in reqt:
-                await mody.tgbot.send_message(BOTLOG_CHATID, f"**- خطـأ غير معروف قم باعادة توجيه الرسالة ل@UP_UO لحل المشكلة\n{reqt}**")
+                await mody.tgbot.send_message(BOTLOG_CHATID, f"**- خطـأ غير معروف قم باعادة توجيه الرسالة ل@ELHYBA لحل المشكلة\n{reqt}**")
             
             return
         except BaseException as er:

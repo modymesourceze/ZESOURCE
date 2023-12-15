@@ -61,4 +61,4 @@ async def zakrafarun(event):
             .replace("H", "ꫝ")
         )
         await event.edit(uppercase_text)
-        #مأخوذ_من_سورس_جمثون
+       

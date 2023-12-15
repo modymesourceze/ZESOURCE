@@ -1,5 +1,5 @@
 # Copyright (C) 2021 SourceZe TEAM
-# FILES WRITTEN BY  @lMl10l
+# FILES WRITTEN BY  @ELHYBA
 
 from telethon import events
 from telethon.utils import get_display_name

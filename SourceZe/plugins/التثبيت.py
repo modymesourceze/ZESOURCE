@@ -216,4 +216,4 @@ async def _iundlt(event):  # sourcery no-metrics
                     file=msg.old.media,
                 )
 #admin plugin for  mody
-# by  @lMl10l
+# by  @ELHYBA

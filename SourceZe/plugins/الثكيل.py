@@ -1,7 +1,7 @@
 #ياقائم آل محمد
 #ربي اشرح لي صدري
-#تمت كتابة الكود من قبل الهيبه مودي @UP_UO
-#فريق زد إي @UI_XB
+#تمت كتابة الكود من قبل الهيبه مودي @ELHYBA
+#فريق زد إي @Source_Ze
 import asyncio
 from telethon import events
 from SourceZe import mody
