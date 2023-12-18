@@ -1,4 +1,159 @@
-#https://t.me/Source_Ze
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b85decode(b'c%1EBYjjlCb=F8iz!(F5B_VN=n?f1{MrLLtgls2qVml>?<1}^BIAc4q!W{#)9%Q6(OiF5v=AmH>2prbxavhtOVTQ4!K?niTs@t{Pzy05P<+Zw2<^J(6`0XD}_ul7m@0q#hijdA#f7E!SJ9nSQK4*V>pMCau=#!?J|61YmIDCeG2~TE|8R~Bu2*pDod~WV<jyKcqmUxTVVz&0T4z$KwiMFbL)j(Ukji*~3Uk$(8`qvDsjjyG5tNWV=!tpRXx0q}C?;2PaUq{bt`|loDA72m8Ve_v34FenF8{v6f{GNSH=H2H)@p}_%U%Ag*Z*DjiGB=v{WScUf`2F<mUh}@hJuf$#_aAFEA5bWtGe0jWUr;EU%r8pHmlVo_=9eYqD+=YSrXeX`Qz(C7ZkCiS3gzqOUrNe16v|e!T~f9wl<nq2lCndgbeIoI%1(t6F{6?aQz)Hgm!#}cDBb36N$F82kC=~2%3})Uo94G9<=YD7aq~Np@?C}Ug!!bTJf%>+XMRso{z{?jF~2V<KTs$?G@q7~A1Rb)%pXh2Un`WKn13TF&nlFknm?12zf~wdH=mP~UnrEg`MjjOpio{ke<>-w3gsoUPf~uRQ1+Upq$Cu|%jP~w*{@Izn6F66s|uyx9FUYjg)(Fwl$2j9l%zQ<DI*FcWxggUzfmZ!n};Ojw+iL&%)^rMJB9N1<{OeSDkx_2vrX;kPtoGEhZfrsuO$XYhM)PgnSXy`Xz=9&``~G9pE+<~uy^l(313<VhRj1q-n)P3z}^Hr-JLKGjPwpAdy|QS{YVP$d#x`yJkmFk8vZoI3R^t@Wgi$CTwIlSeI(h}esAiBK(I=77XF>I$L$F_XIL{<$(pjq4LfH~ShH5es@g?(9)HNrS|!8I+b8UC$Wyc~8IWz<9<@rhPQUfet<%TSsc$;vjYGPe!Ha{mRv8I~UBJ9h8)U=UrXXp-x+F_D>E`G-lmcnyfRVCcor5|{R>eMHP=YZi`W&)j*lD}SQdOa>8K^i9oLX~K<(p6kWIAadF`(WF>nfx^g4~?5K7it8SaS?J1Fg>*)>Uhs$~eZ_KVu+gsUmP?7oh&KJ%+jGAWcPK!?2D*4k+*})>y`pftxp3kBvdi^jHMWrmQLy3#FgHTu_8H%Q9kjB8S)Qv~>}CX2QAxNg#I?>OEm+WG9WfyLrMM{rI0bFZL*K36eCR6{ApBl~r&J6Va=*DC5t}Zcn71P?-QZm7w<);A<YmQMN8apPqoO%wTbO*~9#`Y|Ibb<zOjL@fB+xdq_6Eh(au55hx;%19le5xPtHPaVYFv6r_D3^;0NrX>>xCcoNGzZ%sln5GUgezQ7}w$OK6o+UTmx%`a7F7gA@S;2j2l<ua>@^-UEjn7~qzn_2rf;T^zQMp@g(0kr@=08;_s1odG06Vy7)FpX6}abuVkUvRDw3dqVB!vzwj;OB(F72`5v0O}*!j5SGxc2MgHO|!s$UPUNt9#e@6Oqs_}-tcA|8AP0lFQ6M`V0_%@xOMvdWA=FJ02Pd-6rs~ms8SeA|KNR9s3x`m^Z}SCLee8dbG40<XRslncaL>YJ-1F*PN3SS(xNty+%!|zdC{Caw$4DT5LBVH6<|Jt4Z@bqLy{x1GSte9ou*bf3{c;n7e!#V7NDXT>l&q7diVWXr;q+iN9tANB7=YgL81wS56TgMgXI>WFz94x1qTk5R0RFaSr_R&2(8GvY>vcMRM^WC)^1*3V10Zv^$!fXXd^IJjx28;CBv;JQ-Un@JnNoGDlkuG2GY!dWuY#;NazMw<e-QwgF0Es^H5+K1Va{*u?O!8kSW97ISc|w@??wvgQ-J=el$uz&!GSdNH?tO)RyC{Nysu}p2ceD1#}5Fj0TuJu=v=MS%#ScblY)Z0gt1ilKDJ=$>*u%6QI|B=m7NnXN`@xfZdC2$^p8e(bPvMM5vbA<qW)qaf=Bm2TF_GU6+i;ADJvox`HZ)3IgvlHK`Yv{g`LfBg9=yRX`dgNPmSAV2jJ}fbGmM9u}Z4X8^644&#&2q5-1b0g9O;A$&6WCRrHPRo9q?!O(~rfHF8wmWP`NYo7Hs;Ee=Ypn;6wmm$=1X#-&rUT3U#+#)b2#|&ncLp4t?hZ+JrDHd2zC<GyY8ey9HJu;a^nAB>t!ymM$fc1ddqopOt;?Q~#%_Jx(ngy`9*uSVYWGe`@g34f>!9JaZFI9tjZi<mn4RE0Uz#d<E`@+o|6R54JuX2cx2%weL%+_x|^1|@pE$v&Me_{BAXJ6dbjxNx_zLAkca&T|RHPb_1Yc+iS6=!>U;K$*nS75%ksp(AUY}4?Q;+xt0S}6JCNb{MNk=C=J--Ql0ompkJjI_PeWVRj-!OvCit~wj~KFsm<G~rAS{JOShl33BD*3Uu@e-_&OS?KZ4LSIXL8D2eNY}>YU@uYF<-IG=LOu}cDf36v+ZFe;_A?Y%F=HTJ2G^R0@F21#GTlnMmmPSw2|9|uPho0|0elNV$c&WqAMP4%64JhMnsM_fz2B;GBC>Rtdou!TH)4~Iql>&h9l1v}-DZ7HAL*I!xe_8U3U?h~8JKdS55UJ!{TGPPRoXAvRIt|ZhnX$`{OHje9Ox+nO^5iVQv&_EBm+2{HJ7xVe%H~{c?p~&L7~~7Wu}ZtD-R)N`<hudYrk!R}qpca4y~mg9X&7pXve(FXWA=*79@&Zcy}1U93>6jy-%uPnbVV2Mk%&Hb27POpcZRG|*}CrJjq3B}K+j8ns4C7XSj#V<Ibk3(L<uo%3DnM6XNrL@F5}?s>bXd#4+G%cW})xU<Ej|sP>@sMWbV?}4OR+`p5&d7lY@akVrPo%+f`RncIk^l2`-4dlW5M}^6U2D10KuR_agHZYXJn2b}>f0z~JJ-ab&l?#3_<X*`)+%>+NwTbB|x27I8Raqo_BYq8c=UD?{!;#c=nhlT8D|3iEhC^_Yi6;=GR4mubdER?9IwQLULHS5R$fRAb}fPdQ0CeN9458~m*oCH}~j+|OFglaSn;_!*~hR5y3abQWofD^f)PgOg8ZiYC!>g^yE3Y^U$wbCt|%2}k_%^kR}tq3xnmg5U5Zt)w(RLV_+9e8x1W5A9Xi)!#9nA#Jgum^!I;PG%n<0Has!G0Hqi4qDdDqz@>_9#+uIILVhA!ZLQwN$i6OuoTnGQaHAstCG7<{D&^y3yRjn{D&)NkQG1%$Ix*Md{E;I88l&a3M_B~V{D}&{9uEImaGA#^uq@Ntn9!GO#^fpx671U3l|yQsnsFM<_8onRL{~(Femf-;ibezP<Q_j;Fx^=bT<+_)}z&%H{O1J=~Q9q)RCoA>6;&(LpOB+y;k`A6MW|3Qz36vx~;cPpPDgles~@-ES<_h<`=h)bPOaOes(C8+?(i)C))3b9cb~#?*Ti;Z(HE8ef47NNaFR8#nlIf`}z;=?^|q3_6?dt14(r47h98w{i(%PjFKkr!f<Hw;wp-@#@n8Hde1Mu`<+Wo$xWEB+1$4n>TSoVK$s>64~D{_*3ia3CcgyVQmr&ci)=}?u!r{M<lUHU_1>X@0jN)zSm1Mum{{zromf1iOf2BrnP#)4W&+X5CJ@Q>Soa`2f(Jo^+C_9lje3b!S&#;&)CKg23<Gdl#rbRzI_Z(HaR>d(dKn6zMl)?tKo{rv6bl;{E^dKw6%Ow(P<!h=i5u1ofYqA}NC*3&B}2U*V6?=l=#$_mLem3G@~5|Q>F6nF<r901M~ufMFfX+v@5AoDAAfuvXL6zB7w~zL{P9KnfzXJckk_EtS3L-TY5pU}N>pGa+DL3XzZ^Db+BV82ZWLhrKZlSC&XUke)}tf`<zA*hP0`N#fr&=*|3x4qan7FnibnL0YD6CsqK`FF^gEUn{b=1B9A5ER_zKHh@TJ#l&Szl4d`ctCP9e<BMhf#$Utvz623tHlf}Nuak*u(-7fkvXbca{;V1g0tGaAu$3DI^nQnb%5uctmytCf|gixEGWj*$Vc`WSH5zTiaubB)M%36bw=q{x4?tjDH{GlFDRQsA`mGv?=yakl-E@PKJ>!tT=uyITmmyOF|vY+3!LIIt5V#1JtGd8K4b?C5nhjZ*ek<@w-b`>IB^yM=6buk6&zJz2NZQ2q+a*kMbrs63?LXV-a4NZLBje3rlx5E@b%H1r5G^fVF;?adx&@LPRZX(yZWg(5cS#R4wDiXd1)f|hTifH|1q+GL=(bWYo*9M7|C=k1KvjPOpN+IQ5|PXRJ4NQNL?i&3HiVp5@~%Pllq2{~NB7lJ-R3o&X<CB6}+D8hNp!WZKV*Ia@D@*8zPUPbtg?A#(^O*<P2<#(1Hv|N3otl_M%LyEH0n=CHfWkUo?6a9P{-e|oA#DyldS0*?scti)Dhy+ihk>J_BEO;{ZsQ0Sy%6hl7RP7UT5L}Wd?}W`e5a#c7!i-8`HZ+2G@-`xf&LaKF%1;>^Dr}|Dn)VbZF66TfVpd5n@i|i9OWx}3Zn$6knXk44r~iM@K_(_4)6mG{>}@Pah+P>$<0Yr~H^McLOQ^n6TPV5c_$=NK%+lU?eL3KRp!qB6K*d~dikFmqM-{${C9wGC1s$k5C8!!20sZ>&cF1$5&dORO7f)I<gj@zD#%Y}xyQCN!8tr`MHbP(Ot|@1m)Jjj6IA8uY;_5O>Rcr@OVDi49llLwu?}mmtqrUQ%8#9DWW;@*2H@?MfrKQd})JvW78Ql2(kxr(&rA!+d^;*`yckK_9L0`6QZl#6E+0YA<a~_;9|E*4#T!ak`Rs9Db#(yl;?a?%DojyKyCnCHJ2|8Q|fdh+Wv<~OVt(q1m6}+;r0|GF0ufTkJUK$nJ+EB#<1sR$Wl(Dt6n~*ZG9c8k$PG-0BB^%$%OU&?z4<8GZ{;|Z4gc5N3f$%WtXdpt*!Cjv0##!$&A<KD@qNYgEa$Y3VAj+)LnKjN7KN~cIjdz{ixr$Lg<d`L{2<16q)bb&UwR4oeK>O7y`YxbNdh8SoiX>lOpiTR1@!SU6m&2B+rIc{rW0f6^A}zH_E(y%iw!=$)65!E89|l~VZ(XC%WlrR09WLIgeWDSjb;;?W1xhjF@Z)~BTru@Pqf$I1IK#svRA7-~iU+I;h8yA~32~I4ld~pY9dscX9cKbuh}KCn(W{z*8p+qky+yfBw-+&yo$iHH@8e|M3I3iJG=&RM))Z?nVu<H-fdjWc;x<#cpka{uxZl<`jWLLawkk~6yz&~*O<UJR{Er9BuVWsyEbL8P7uH}~oQcx+R6tRsf7iGWQ5j#3HZ;Ecmahxpz0E&h-@#$R?X+u&QD17zm)hw|?ee730Fong2IQ&ymku*BtQ>7<Sb66%Qwhx(4?{WRvC<AGXHpYUBo>2{=uMqOWo$Xx(Ae^C*n+9jOU@CSMvBViX@(6Wvcu@80T3E&Tn!2vQ4iug1$IjISlEcwlPSgrxx+@MXI?~RIc#(xk#^exQ`-%`4r!Id9$fGhja`_=>v%%g=mwHFa1b_j<F_0e3X$s`s#)=bovk-w_{(x#A{WGn>|~YEqA4-tc0P(+uPku>Bh+DR*iDnmaTZ=uM~RuA=q6x#yJ%A$TNH`0T8eUi6CI#00)_Y10#TrABh*9Z*dUw7c0&PyD8^?x#gGy7XhS3DM?$rV5q~ORb(lska{*tXD5CNeEu3@M3-Ho;?=gz%U*xk4TzIJgHNE3HA-9$ba9Ho-Z>|)VVJ22fAWdLrq_)@i!EE<n0bx%{!4I+p1C`d01}ZWx9&Kn`{L?z91m!b%fTl$DrHT`gDk?j|h7R}R>B0gkIn#c;dk2w(zA(FZLKw?=T=-xxU{@fZ3A3&;`P=O7i;TRIg$W$WAGhh=7rb62!;RrMzp`hX8^bBw)+VgnG%`swOKV0Gzbv<7kQ;9~KoeGQY*wD#Ei+FOv%IiaY%m~?tSF2Yo9|82^bfqXV4%1`2Spj%k2W;6|1)1GeiSem>Fymi|Ks+n%uYE2M)M97Y0jT!=mQwRH#{H75lGkf%n+=z0)iAN8kfk+^IJ6#54#CkI7GAXPB3EMq!YUg@kbjP;(yvx?DFt&(Bl?u)FSVT2^~_*T9>4_vkr4y=o!#YHtt--$Po(syu5@2mxhHKCe~bq?8SEjEfl;CMB1Bm(w4#hXb{1Fx3s;_g9j{kzGklRTiJ3y#<UnJN_1L`HZ`K+#>Bh4d>4o?cj$!KBZb+}Wq@t<!jy;f1Gd&#w$0R$-z;+*xD$c#Sr#s?O<*wbL1A;4x~opjqru3sTO-Su45`H$8d7`3V=`^~-=Yw(ie3{_V1*}=DpyO-6k=1Rm}@(eTAsC2eeI<0sv(RC!mj$+v6HKtO+)7~*6XTexBA*i-%~@7wJ=xHRgzK-b30w!$qSTdnjF<paV(3(YU)(;cIv2*HxONTLZ=HdR2XY$sPME-7x?WTuA2|U@r-~~flh$bOk~A%BXW>J&$L(UF93DrmJV5-@d?lvQYA93)eo^3NtaQOMPP~@|Im%6cw11~;68C-nbdUsT#igNP0;h`F8McLw}>y4MKp`$>J<t^(<&LWQr3=SyPdh6o6ZUnDkfhTj>b4MK8GeWF`y%<It7xE*;qp(v(I@ekh~8kV0FQ*muY7e^#(a}<he;1Dt7>IO<}i7^a=>_NgdrO;d)7f!F9x;>t(laBNpTeymJ$Q47b*-@G8*k@k}zt?`3phH_PV{XWb~1$aPa)_;lJ$vE?gj-dH`=mA8}4WAoO0Z*99GJSdHk<f&R}Ajp4ChkO}&jWsm%y1^6qx~rW6kFVi@tEz;3p6-bP0n=s#BUWeZY7)?}z;-@Y_@aY{ZO4rn*Muic8!whiy30xG#N>(;tn<w(+$uf_E?Z9ziyiX=VH)%A&;tSNUL9a%065mr0Px%1;g`DW!~%w@sI@QYKhQ_ri4%kViDS+p0D*g!_JPPO%$1VfPmyitD)7~WnnZGPP@-FF)k1=S&Y%uD-4Z$tJ(_;Tdz9x2q+FmTZ+#1VRdz}&o>nQ+p0RWFYqAx(S9+W-6t7>Bou&1loDg~aS}op7oENjg+GXH8O+%$ifIhj{Qs7Qpu7xdbyCNr<2$X?aJK4WDz~;$0CJSw-1`g@Cv#Ly#|MwQWH0Y2{gJb|L*3baj7H<vG++Y~A?$Aa4MX4}~#Z*>M(|oWl$QX-bJ0pInJK0om(%JbYt~I<}-$LXQJLa^r(=qVT=ed%W*$zfIoxDPqm$9sDFE38;$Vo>y=G2vFnj>VfTY8*X-VN+LCuTE=iWig%k=3BMQ-%&Z8yY(Nu_uac->WnO#xni=jVeP!`Zk07^2naA3o4>2dA4<nyASxsSs?W?8N0-4_GMf`+~tIx^R&L5N0Z+zhOq(<#)$)fauzvHe?DNlOM_%k@j5MOd&X>($dOFR5G;l%CjzwH;9IX5+?~i!nb$f)E_5y!z)$D^FT)$14GnL+p)uRK>s$j~3*ko=+$^aAv_4=v+{rVDYO=T@z^>I#LDiK<NGl3ebD-W?TYyr$Ty^2MM=HudrEyzLN9=oL6$149t2!MNkw&(h=s%65XbW!GkUCptfgonkCuu<2u80+A5y$?!jySN<0wp#lqo;V=AX{w;L_z*hryw#4(%H}`h{wX9_l?DY2S6ysV2DTvAZ9cDJt1^e($2tjg{-%8PmRMoEzcCu>}?K6mKSPe+5SL$%}Am@F|vPXFo}O<B>6xSUNM|ZBvH2U^{n7{q9ZkOpno`tqK~ic8$L9+_rOqmji4smFe_eT9KU<-P%_am&^Oq(FOeKhVrB7rhkxDQyFbx?Fp=!o*FW^DJ}7A|*3(2c9mh8u>`(2(KONUMlGrztJe2$#zHRGE;vbVE#$An(Em~aj*uapP>Q8(Nxf(tSZCe-G7+Tl7u6a#p9sZ`Dt<7uh4~N35p}C>9|88v!w|P9R@_6z}ce_ts<=t+{4yS89-g&jdzinPmYi_f=KjZ0t0QVM`eg'))))
-# channel : https://t.me/Source_Ze
+# WRITE  BY @ELHYBA 
+# PLUGIN FOR SourceZe
+# @Source_Ze
+
+import random
+from telethon import events
+import random, re
+
+from SourceZe.utils import admin_cmd
+
+import asyncio
+from SourceZe import mody
+
+from ..core.managers import edit_or_reply
+
+plugin_category = "extra"
+
+# اوامر الادمن لسورس  زد إي
+
+@mody.ar_cmd(
+    pattern="اوامر القران$",
+    command=("اوامر القران ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر القران \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.سوره` ) \n-  تقوم باستخدام الامر + اسم السوره للحصول علي السورس\n\n( `.سوره للقارئ الشيخ` )\n - تقوم ب استخدام هذا الامر + اسم الشيخ للحصول علي سوره له\n\n( `.آيه نصيه` )\n - للحصول علي ايه نصيه عشوائيه \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر الفيزات$",
+    command=("اوامر الفيزات ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الفيزات \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.ماستر` ) \n - لتوليد ماستر كارد عشوائيه\n\n( `.فيزا` )\n - لتوليد فيزا عشوائيه\n\n( `.ولد` )\n - تقوم ب استخدام هذا الامر مع البين لتوليد 10 فيزات \n\n( `.المعلومات` )\n - استخدم الامر مع اختصار الدوله للحصول علي معلومات وهميه\n( `.جيك` )\n - تقوم ب استخدام هذا الامر لفحص الفيزا \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر الاذاعه$",
+    command=("اوامر الاذاعه ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر النشر \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.سبام` ) \n - بالزد علي الحرف لتكرار الحف\n\n( `.وسبام` )\n - بالزد علي كلمه لتكرار الكلمه\n\n( `.كرر` )\n - بالرد علي النص لتكرار النص \n\n( `.تكرار الملصق` )\n - بالرد علي الملصق لتكرار الملصق \n\n( `.ايقاف التكرار` )\n - لتعطيل التكرار \n\n( `.النشر تفعيل` )\n - لتفعيل النشر \n\n( `.نشر` )\n - بالرد علي النص المراد نشره \n\n( `.سوبر` )\n - بالرد علي النص المراد نشره بالسوبرات \n\n( `.نشر_كروبات` )\n - بالرد علي النص المراد نشره بالكروبات \n\n( `.تعطيل النشر` )\n - لتعطيل عملية النشر \n\n( `.للكل` )\n - استخدم الامر + الرساله لتتم اذاعتها للكل \n\n( `.للخاص` )\n - استخدم هذا الامر + الرساله للاذاعه لكل المحادثات الخاصه \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )    
+           
+@mody.ar_cmd(
+    pattern="اوامر المجموعات$",
+    command=("اوامر المجموعات ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الجروبات \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.المحذوفين` ) \n - لعرض جميع الحسابات المحذوفه\n\n( `.حذف المحظورين ) \n - لحذف جميع الحسابات المحظوره من الجروب\n\n( `.ضيف` )\n - استخدم الامر مع يوزر الشخص المراد اضافته \n( `.اضف_جهاتي` )\n - لاضافة جميع جهاتك \n\n( `.طرد_الكل` )\n - لطرد جميع اعضاء المجموعه او القناه \n\n( `.كتم_الكل` )\n - لكتم جميع اعضاء الجروب \n\n( `.منع_التفليش` )\n - لمنع تفليش مجموعه او قناه \n\n( `.سماح_التفليش` )\n - لالغاء امر منع التفليش \n\n( `.تفليش` )\n - لتصفية قناه او مجموعه \n\n( `.الغاء التفليش` )\n - لايقاف عملية التفليش \n\n( `.مغادرة الكروبات` )\n - لمغادرة جميع الكروبات \n\n( `.مغادرة القنوات` )\n - لمغادرة جميع القنوات \n\n( `.تفعيل الذكاء` )\n - للسماح باستخدام الذكاء الاصطناعي \n\n( `.تعطيل الذكاء` )\n - لتعطيل استخدام الذكاء الاصطناعي \n\n( `.تفعيل المميز` )\n - للسماح ب استخدام الملصقات المميزه \n\n( `.تعطيل المميز` )\n - لتعطيل استخدام الملصقات المميزه \n\n( `.تحذير` )\n - بالرد علي الشخص لاعطائه تحذير \n\n( `.قيد` )\n - بالرد علي الشخص لتقييده \n\n( `.اضف تكرار` )\n - استخدم الامر + عدد التكرارات لعدد الحد الاقصي لتكرار الكلمه \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )                                                                                   
+           
+@mody.ar_cmd(
+    pattern="اوامر الحالات$",
+    command=("اوامر الحالات ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الحالات \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.اوفلاين` ) \n - لتفعيل وضع ال اوفلاين \n\n( `.اونلاين` )\n - لتعطيل وضع الاوفلاين\n\n( `.سليب` )\n - قم ب استخدام الامر بالرد علي الصوره \n\n( `.نائم` )\n - لتفعيل وضع النوم \n\n( `.مستيقظ` )\n - لتعطيل وضع النوم \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر التحشيش2$",
+    command=("اوامر التحشيش2 ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر التحشيش2 \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.اجمد كده` )\n( `.يالهوي` )\n( `.احترمي نفسك` )\n( `.عيب` )\n( `.مينفش` )\n( `.مديك قلبي` )\n( `.اهلا بيك` )\n( `.هعوره` )\n( `.سليب` )\n( `.حفل` )\n( `.خد نفس` )\n( `.امال` )\n( `.هتولعو` )\n( `.انا تعبان` )\n( `.عملت ايه` )\n( `.المخدرات` )\n( `.يا مرا` )\n( `.بتحرجني` )\n( `.انضف` )\n( `.هنضحك` )\n( `.يا راجل` )\n( `.موزه` )\n( `.انا فين` )\n( `.خلصانه` )\n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر الزخرفه$",
+    command=("اوامر الزخرفه ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الزخرفه \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.تغميق` ) \n - بالرد علي النص المراد جعله بالخط العريض\n\n( `.خط غامق` )\n - لتفعيل الخط الغامق\n\n( `.خط رمز` )\n - لتفعيل خط الرمز\n\n( `.زخرفه_انكليزي` )\n - لزخرفة نص باللغه الانجليزيه \n\n( `.زخرفه_عربي` )\n - لزخرفة نص باللغه العربيه \n\n( `.انجليزية` )\n - لتفعيل الزخرفة الانجليزية التلقائيه\n( `.ايقاف الانجليزية` )\n - لتعطيل الزخرفة الانجليزيه التلقائيه\n( `.زخرفة` )\n - لزخرفة نص باللغه الانجليزيه \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر المساعده$",
+    command=("اوامر المساعده ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الفيزات \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n - الرد علي الرابط\n( `.تحويل ملكية` )\n - بالرد علي الشخص المراد نقل الملكية له\n( `.معني` )\n - قم باستخدام الامر + الاسم المراد معرفة معناه\n( `.تطبيق` )\n - قم بالرد علي رابط التطبيق\n( `.بي دي اف` )\n - لتحويل صوره لملف pdf\n( `.تفعيل الترجمة التلقائية` ) \n - لتفعيل الترجمة التلقائيه \n\n( `.انطق` )\n - بالزد علي التسحيل الصوتي \n\n( `.استفتاء` )\n - لانشاء استفتاء \n\n( `.حساب العمر` )\n - قم ب استخدام الامر + تاريخ ميلادك لحساب عمرك \n\n( `.ذك` )\n - استخدم الامر + السؤال \n\n( `.ايميل وهمي` )\n - للحصول علي بريد وهمي \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )           
+           
+@mody.ar_cmd(
+    pattern="اوامر الرشق$",
+    command=("اوامر الرشق ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الرشق \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.تيك توك` ) \n - قم ب استخدام الامر + رابط الفيديو \n\n( `.رشق انستا` )\n - قم ب استخدام الامر + رابط المنشور \n\n( `.تفاعل` )\n - قم ب استخدام الامر + رابط البوست علي تليجرام \n\n( `.رشق` )\n - قم ب استخدام الامر + رابط البوست علي تليجرام \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر المعلومات$",
+    command=("اوامر المعلومات ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر المعلومات \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.احمد` ) \n - للحصول علي معلومات المطور \n\n( `.صورته` )\n - بالرد علب الشخص للحصول علي صورته\n\n( `.ايديه` )\n - بالرد علي الشخص للحصول علي ايديه \n\n( `.اسمه` )\n - بالرد علي الشخص للحصول علي اسمه \n\n( `.اسمي` )\n - لعرض اسمك \n\n( `.رابطه` )\n - بالرد علي الشخص \n\n( `.رابط الحساب` )\n - بالرد علي الشخص \n\n( `.ايدي الشخص` )\n - بالرد علي الشخص \n\n( `.كشف_ايدي` )\n - بالرد علي الشخص \n\n( `.الايدي` )\n - للحصول علي الايدي \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر المساعده2$",
+    command=("اوامر المساعده2 ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر المساعده2 \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.جوجل ar` ) \n - بالرد علي نص باللغه العربيه \n\n( `.جوجل en` )\n - بالرد علي نص باللغه الانجليزيه\n\n( `.بوتي` )\n - لعرض يوزر بوتك \n\n( `.تقويم` )\n - لعرض التقويم \n\n( `.انستا` )\n - قم ب استخدام الامر + رابط الفيديو \n\n( `.النظام` )\n - لعرض النظام \n\n( `.فلم` )\n - قم ب استخدام الامر + اسم الفيلم \n\n( `.تجربة` )\n - لتجربة كود برمجي \n\n( `.اسم الاغنية` )\n - بالرد علي المقطع \n\n( `.سجل الاسماء` )\n - بالرد علي الشخص \n\n( `.نزعه` )\n - قم ب استخدام الامر + اليوزر \n\n( `.السورس` )\n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )                       
+           
+@mody.ar_cmd(
+    pattern="اوامر الاشتراك$",
+    command=("اوامر الاشتراك ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الاشتراك \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.ضع الاشتراك خاص` ) \n - قم ب استخدام الامر + يوزر القناه \n\n( `.ضع الاشتراك كروب` )\n - قم ب استخدام الامر + يوزر القناه \n\n( `.تفعيل خاص` )\n - لتفعيل الاشتراك بالخاص \n\n( `.تعطيل خاص` )\n - لتعطيل الاشتراك بالخاص \n\n( `.تفعيل كروب` )\n - لتفعيل الاشتراك الكروب \n\n( `.تعطيل كروب` )\n - لتعطيل الاشتراك بالكروب \n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر الالعاب$",
+    command=("اوامر الالعاب ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الالعاب \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.مصه` )\n( `.الالعاب` )\n( `.الالعاب2` )\n( `.شنو رأيك بهذا` )\n( `.اذكار` )\n( `.اذكار عشر )\n( `.كت` )\n( `.خيروك` )\n( `.مود التكبر` )\nقم ب استخدام الامر + عدد الثواني\n\n( `.مود التكبر تعطيل` )\nلتعطيل مود التكبر\n\n( `.التكبر` )\nقم ب استخدام الامر + الايدي + عدد الثواني\n\n( `.تعطيل التكبر` )\nلتعطيل امر التكبر\n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+           )
+           
+@mody.ar_cmd(
+    pattern="اوامر الاسماء$",
+    command=("اوامر الاسماء ", plugin_category),
+           )
+async def _(event):
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit(
+        "شـرح عـن اوامـر الاسماء \n۞———————﷽———————۞\n ۞︙ اختر احدى هذه الاوامر \n\n( `.اسمي احمد` ) \n( `.اسمي عقرب` )\n۞———————﷽———————۞\n⌔︙CH : @Source_Ze "
+        
+)
