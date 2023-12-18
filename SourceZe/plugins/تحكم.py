@@ -15,7 +15,7 @@ from ..sql_helper import global_collectionjson as sql
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
 
 
-@mody.ar_cmd(pattern="م36")
+@mody.ar_cmd(pattern="اوامر الذاتيه")
 async def hi(event):
     await edit_or_reply(
         event,

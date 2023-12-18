@@ -104,7 +104,7 @@ def gen_user(choice):
     return username
 
 
-@mody.ar_cmd(pattern="م41")
+@mody.ar_cmd(pattern="اوامر الصيد")
 async def _(event):
     await event.edit(
         """

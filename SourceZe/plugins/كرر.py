@@ -48,7 +48,7 @@ ModyPRO_cmd = (
 
 
 # Copyright (C) 2023 ZE . All Rights Reserved
-@mody.ar_cmd(pattern="م45")
+@mody.ar_cmd(pattern="اوامر االتكرار")
 async def cmd(zelzallll):
     await edit_or_reply(zelzallll, ModyPRO_cmd)
 
