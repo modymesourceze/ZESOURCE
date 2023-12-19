@@ -29,7 +29,7 @@ class Config(object):
     TZ = os.environ.get("TZ", "Asia/Baghdad")
     # set this with required cat repo link
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/Source-Ze/ZESOURCE.git"
+        "UPSTREAM_REPO", "https://github.com/modymesourceze/ZESOURCE.git"
     )
 
     # BASIC and MAIN CONFIG VARS
