@@ -22,7 +22,7 @@ JEPVERSION = "3.1.3"
 
 
 if Config.UPSTREAM_REPO == "SourceZe":
-    UPSTREAM_REPO_URL = "https://github.com/Source-Ze/ZESOURCE"
+    UPSTREAM_REPO_URL = "https://github.com/modymesourceze/ZESOURCE"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
 
