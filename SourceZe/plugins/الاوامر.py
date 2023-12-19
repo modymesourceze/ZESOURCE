@@ -1,4 +1,213 @@
-#https://t.me/Source_Ze
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b85decode(b'c%1EBYjjlCb=F8iz!(F5B_VN=n?f1{MrLLtgls2qVml>?<1}^BIAc4q!W{#)9%Q6(OiF5v=AmH>2prbxavhtOVTQ4!K?niTs@t{Pzy05P<+Zw2<^J(6`0XD}_ul7m@0q#hijdA#f7E!SJ9nSQK4*V>pMCau=#!?J|61YmIDCeG2~TE|8R~Bu2*pDod~WV<jyKcqmUxTVVz&0T4z$KwiMFbL)j(Ukji*~3Uk$(8`qvDsjjyG5tNWV=!tpRXx0q}C?;2PaUq{bt`|loDA72m8Ve_v34FenF8{v6f{GNSH=H2H)@p}_%U%Ag*Z*DjiGB=v{WScUf`2F<mUh}@hJuf$#_aAFEA5bWtGe0jWUr;EU%r8pHmlVo_=9eYqD+=YSrXeX`Qz(C7ZkCiS3gzqOUrNe16v|e!T~f9wl<nq2lCndgbeIoI%1(t6F{6?aQz)Hgm!#}cDBb36N$F82kC=~2%3})Uo94G9<=YD7aq~Np@?C}Ug!!bTJf%>+XMRso{z{?jF~2V<KTs$?G@q7~A1Rb)%pXh2Un`WKn13TF&nlFknm?12zf~wdH=mP~UnrEg`MjjOpio{ke<>-w3gsoUPf~uRQ1+Upq$Cu|%jP~w*{@Izn6F66s|uyx9FUYjg)(Fwl$2j9l%zQ<DI*FcWxggUzfmZ!n};Ojw+iL&%)^rMJB9N1<{OeSDkx_2vrX;kPtoGEhZfrsuO$XYhM)PgnSXy`Xz=9&``~G9pE+<~uy^l(313<VhRj1q-n)P3z}^Hr-JLKGjPwpAdy|QS{YVP$d#x`yJkmFk8vZoI3R^t@Wgi$CTwIlSeI(h}esAiBK(I=77XF>I$L$F_XIL{<$(pjq4LfH~ShH5es@g?(9)HNrS|!8I+b8UC$Wyc~8IWz<9<@rhPQUfet<%TSsc$;vjYGPe!Ha{mRv8I~UBJ9h8)U=UrXXp-x+F_D>E`G-lmcnyfRVCcor5|{R>eMHP=YZi`W&)j*lD}SQdOa>8K^i9oLX~K<(p6kWIAadF`(WF>nfx^g4~?5K7it8SaS?J1Fg>*)>Uhs$~eZ_KVu+gsUmP?7oh&KJ%+jGAWcPK!?2D*4k+*})>y`pftxp3kBvdi^jHMWrmQLy3#FgHTu_8H%Q9kjB8S)Qv~>}CX2QAxNg#I?>OEm+WG9WfyLrMM{rI0bFZL*K36eCR6{ApBl~r&J6Va=*DC5t}Zcn71P?-QZm7w<);A<YmQMN8apPqoO%wTbO*~9#`Y|Ibb<zOjL@fB+xdq_6Eh(au55hx;%19le5xPtHPaVYFv6r_D3^;0NrX>>xCcoNGzZ%sln5GUgezQ7}w$OK6o+UTmx%`a7F7gA@S;2j2l<ua>@^-UEjn7~qzn_2rf;T^zQMp@g(0kr@=08;_s1odG06Vy7)FpX6}abuVkUvRDw3dqVB!vzwj;OB(F72`5v0O}*!j5SGxc2MgHO|!s$UPUNt9#e@6Oqs_}-tcA|8AP0lFQ6M`V0_%@xOMvdWA=FJ02Pd-6rs~ms8SeA|KNR9s3x`m^Z}SCLee8dbG40<XRslncaL>YJ-1F*PN3SS(xNty+%!|zdC{Caw$4DT5LBVH6<|Jt4Z@bqLy{x1GSte9ou*bf3{c;n7e!#V7NDXT>l&q7diVWXr;q+iN9tANB7=YgL81wS56TgMgXI>WFz94x1qTk5R0RFaSr_R&2(8GvY>vcMRM^WC)^1*3V10Zv^$!fXXd^IJjx28;CBv;JQ-Un@JnNoGDlkuG2GY!dWuY#;NazMw<e-QwgF0Es^H5+K1Va{*u?O!8kSW97ISc|w@??wvgQ-J=el$uz&!GSdNH?tO)RyC{Nysu}p2ceD1#}5Fj0TuJu=v=MS%#ScblY)Z0gt1ilKDJ=$>*u%6QI|B=m7NnXN`@xfZdC2$^p8e(bPvMM5vbA<qW)qaf=Bm2TF_GU6+i;ADJvox`HZ)3IgvlHK`Yv{g`LfBg9=yRX`dgNPmSAV2jJ}fbGmM9u}Z4X8^644&#&2q5-1b0g9O;A$&6WCRrHPRo9q?!O(~rfHF8wmWP`NYo7Hs;Ee=Ypn;6wmm$=1X#-&rUT3U#+#)b2#|&ncLp4t?hZ+JrDHd2zC<GyY8ey9HJu;a^nAB>t!ymM$fc1ddqopOt;?Q~#%_Jx(ngy`9*uSVYWGe`@g34f>!9JaZFI9tjZi<mn4RE0Uz#d<E`@+o|6R54JuX2cx2%weL%+_x|^1|@pE$v&Me_{BAXJ6dbjxNx_zLAkca&T|RHPb_1Yc+iS6=!>U;K$*nS75%ksp(AUY}4?Q;+xt0S}6JCNb{MNk=C=J--Ql0ompkJjI_PeWVRj-!OvCit~wj~KFsm<G~rAS{JOShl33BD*3Uu@e-_&OS?KZ4LSIXL8D2eNY}>YU@uYF<-IG=LOu}cDf36v+ZFe;_A?Y%F=HTJ2G^R0@F21#GTlnMmmPSw2|9|uPho0|0elNV$c&WqAMP4%64JhMnsM_fz2B;GBC>Rtdou!TH)4~Iql>&h9l1v}-DZ7HAL*I!xe_8U3U?h~8JKdS55UJ!{TGPPRoXAvRIt|ZhnX$`{OHje9Ox+nO^5iVQv&_EBm+2{HJ7xVe%H~{c?p~&L7~~7Wu}ZtD-R)N`<hudYrk!R}qpca4y~mg9X&7pXve(FXWA=*79@&Zcy}1U93>6jy-%uPnbVV2Mk%&Hb27POpcZRG|*}CrJjq3B}K+j8ns4C7XSj#V<Ibk3(L<uo%3DnM6XNrL@F5}?s>bXd#4+G%cW})xU<Ej|sP>@sMWbV?}4OR+`p5&d7lY@akVrPo%+f`RncIk^l2`-4dlW5M}^6U2D10KuR_agHZYXJn2b}>f0z~JJ-ab&l?#3_<X*`)+%>+NwTbB|x27I8Raqo_BYq8c=UD?{!;#c=nhlT8D|3iEhC^_Yi6;=GR4mubdER?9IwQLULHS5R$fRAb}fPdQ0CeN9458~m*oCH}~j+|OFglaSn;_!*~hR5y3abQWofD^f)PgOg8ZiYC!>g^yE3Y^U$wbCt|%2}k_%^kR}tq3xnmg5U5Zt)w(RLV_+9e8x1W5A9Xi)!#9nA#Jgum^!I;PG%n<0Has!G0Hqi4qDdDqz@>_9#+uIILVhA!ZLQwN$i6OuoTnGQaHAstCG7<{D&^y3yRjn{D&)NkQG1%$Ix*Md{E;I88l&a3M_B~V{D}&{9uEImaGA#^uq@Ntn9!GO#^fpx671U3l|yQsnsFM<_8onRL{~(Femf-;ibezP<Q_j;Fx^=bT<+_)}z&%H{O1J=~Q9q)RCoA>6;&(LpOB+y;k`A6MW|3Qz36vx~;cPpPDgles~@-ES<_h<`=h)bPOaOes(C8+?(i)C))3b9cb~#?*Ti;Z(HE8ef47NNaFR8#nlIf`}z;=?^|q3_6?dt14(r47h98w{i(%PjFKkr!f<Hw;wp-@#@n8Hde1Mu`<+Wo$xWEB+1$4n>TSoVK$s>64~D{_*3ia3CcgyVQmr&ci)=}?u!r{M<lUHU_1>X@0jN)zSm1Mum{{zromf1iOf2BrnP#)4W&+X5CJ@Q>Soa`2f(Jo^+C_9lje3b!S&#;&)CKg23<Gdl#rbRzI_Z(HaR>d(dKn6zMl)?tKo{rv6bl;{E^dKw6%Ow(P<!h=i5u1ofYqA}NC*3&B}2U*V6?=l=#$_mLem3G@~5|Q>F6nF<r901M~ufMFfX+v@5AoDAAfuvXL6zB7w~zL{P9KnfzXJckk_EtS3L-TY5pU}N>pGa+DL3XzZ^Db+BV82ZWLhrKZlSC&XUke)}tf`<zA*hP0`N#fr&=*|3x4qan7FnibnL0YD6CsqK`FF^gEUn{b=1B9A5ER_zKHh@TJ#l&Szl4d`ctCP9e<BMhf#$Utvz623tHlf}Nuak*u(-7fkvXbca{;V1g0tGaAu$3DI^nQnb%5uctmytCf|gixEGWj*$Vc`WSH5zTiaubB)M%36bw=q{x4?tjDH{GlFDRQsA`mGv?=yakl-E@PKJ>!tT=uyITmmyOF|vY+3!LIIt5V#1JtGd8K4b?C5nhjZ*ek<@w-b`>IB^yM=6buk6&zJz2NZQ2q+a*kMbrs63?LXV-a4NZLBje3rlx5E@b%H1r5G^fVF;?adx&@LPRZX(yZWg(5cS#R4wDiXd1)f|hTifH|1q+GL=(bWYo*9M7|C=k1KvjPOpN+IQ5|PXRJ4NQNL?i&3HiVp5@~%Pllq2{~NB7lJ-R3o&X<CB6}+D8hNp!WZKV*Ia@D@*8zPUPbtg?A#(^O*<P2<#(1Hv|N3otl_M%LyEH0n=CHfWkUo?6a9P{-e|oA#DyldS0*?scti)Dhy+ihk>J_BEO;{ZsQ0Sy%6hl7RP7UT5L}Wd?}W`e5a#c7!i-8`HZ+2G@-`xf&LaKF%1;>^Dr}|Dn)VbZF66TfVpd5n@i|i9OWx}3Zn$6knXk44r~iM@K_(_4)6mG{>}@Pah+P>$<0Yr~H^McLOQ^n6TPV5c_$=NK%+lU?eL3KRp!qB6K*d~dikFmqM-{${C9wGC1s$k5C8!!20sZ>&cF1$5&dORO7f)I<gj@zD#%Y}xyQCN!8tr`MHbP(Ot|@1m)Jjj6IA8uY;_5O>Rcr@OVDi49llLwu?}mmtqrUQ%8#9DWW;@*2H@?MfrKQd})JvW78Ql2(kxr(&rA!+d^;*`yckK_9L0`6QZl#6E+0YA<a~_;9|E*4#T!ak`Rs9Db#(yl;?a?%DojyKyCnCHJ2|8Q|fdh+Wv<~OVt(q1m6}+;r0|GF0ufTkJUK$nJ+EB#<1sR$Wl(Dt6n~*ZG9c8k$PG-0BB^%$%OU&?z4<8GZ{;|Z4gc5N3f$%WtXdpt*!Cjv0##!$&A<KD@qNYgEa$Y3VAj+)LnKjN7KN~cIjdz{ixr$Lg<d`L{2<16q)bb&UwR4oeK>O7y`YxbNdh8SoiX>lOpiTR1@!SU6m&2B+rIc{rW0f6^A}zH_E(y%iw!=$)65!E89|l~VZ(XC%WlrR09WLIgeWDSjb;;?W1xhjF@Z)~BTru@Pqf$I1IK#svRA7-~iU+I;h8yA~32~I4ld~pY9dscX9cKbuh}KCn(W{z*8p+qky+yfBw-+&yo$iHH@8e|M3I3iJG=&RM))Z?nVu<H-fdjWc;x<#cpka{uxZl<`jWLLawkk~6yz&~*O<UJR{Er9BuVWsyEbL8P7uH}~oQcx+R6tRsf7iGWQ5j#3HZ;Ecmahxpz0E&h-@#$R?X+u&QD17zm)hw|?ee730Fong2IQ&ymku*BtQ>7<Sb66%Qwhx(4?{WRvC<AGXHpYUBo>2{=uMqOWo$Xx(Ae^C*n+9jOU@CSMvBViX@(6Wvcu@80T3E&Tn!2vQ4iug1$IjISlEcwlPSgrxx+@MXI?~RIc#(xk#^exQ`-%`4r!Id9$fGhja`_=>v%%g=mwHFa1b_j<F_0e3X$s`s#)=bovk-w_{(x#A{WGn>|~YEqA4-tc0P(+uPku>Bh+DR*iDnmaTZ=uM~RuA=q6x#yJ%A$TNH`0T8eUi6CI#00)_Y10#TrABh*9Z*dUw7c0&PyD8^?x#gGy7XhS3DM?$rV5q~ORb(lska{*tXD5CNeEu3@M3-Ho;?=gz%U*xk4TzIJgHNE3HA-9$ba9Ho-Z>|)VVJ22fAWdLrq_)@i!EE<n0bx%{!4I+p1C`d01}ZWx9&Kn`{L?z91m!b%fTl$DrHT`gDk?j|h7R}R>B0gkIn#c;dk2w(zA(FZLKw?=T=-xxU{@fZ3A3&;`P=O7i;TRIg$W$WAGhh=7rb62!;RrMzp`hX8^bBw)+VgnG%`swOKV0Gzbv<7kQ;9~KoeGQY*wD#Ei+FOv%IiaY%m~?tSF2Yo9|82^bfqXV4%1`2Spj%k2W;6|1)1GeiSem>Fymi|Ks+n%uYE2M)M97Y0jT!=mQwRH#{H75lGkf%n+=z0)iAN8kfk+^IJ6#54#CkI7GAXPB3EMq!YUg@kbjP;(yvx?DFt&(Bl?u)FSVT2^~_*T9>4_vkr4y=o!#YHtt--$Po(syu5@2mxhHKCe~bq?8SEjEfl;CMB1Bm(w4#hXb{1Fx3s;_g9j{kzGklRTiJ3y#<UnJN_1L`HZ`K+#>Bh4d>4o?cj$!KBZb+}Wq@t<!jy;f1Gd&#w$0R$-z;+*xD$c#Sr#s?O<*wbL1A;4x~opjqru3sTO-Su45`H$8d7`3V=`^~-=Yw(ie3{_V1*}=DpyO-6k=1Rm}@(eTAsC2eeI<0sv(RC!mj$+v6HKtO+)7~*6XTexBA*i-%~@7wJ=xHRgzK-b30w!$qSTdnjF<paV(3(YU)(;cIv2*HxONTLZ=HdR2XY$sPME-7x?WTuA2|U@r-~~flh$bOk~A%BXW>J&$L(UF93DrmJV5-@d?lvQYA93)eo^3NtaQOMPP~@|Im%6cw11~;68C-nbdUsT#igNP0;h`F8McLw}>y4MKp`$>J<t^(<&LWQr3=SyPdh6o6ZUnDkfhTj>b4MK8GeWF`y%<It7xE*;qp(v(I@ekh~8kV0FQ*muY7e^#(a}<he;1Dt7>IO<}i7^a=>_NgdrO;d)7f!F9x;>t(laBNpTeymJ$Q47b*-@G8*k@k}zt?`3phH_PV{XWb~1$aPa)_;lJ$vE?gj-dH`=mA8}4WAoO0Z*99GJSdHk<f&R}Ajp4ChkO}&jWsm%y1^6qx~rW6kFVi@tEz;3p6-bP0n=s#BUWeZY7)?}z;-@Y_@aY{ZO4rn*Muic8!whiy30xG#N>(;tn<w(+$uf_E?Z9ziyiX=VH)%A&;tSNUL9a%065mr0Px%1;g`DW!~%w@sI@QYKhQ_ri4%kViDS+p0D*g!_JPPO%$1VfPmyitD)7~WnnZGPP@-FF)k1=S&Y%uD-4Z$tJ(_;Tdz9x2q+FmTZ+#1VRdz}&o>nQ+p0RWFYqAx(S9+W-6t7>Bou&1loDg~aS}op7oENjg+GXH8O+%$ifIhj{Qs7Qpu7xdbyCNr<2$X?aJK4WDz~;$0CJSw-1`g@Cv#Ly#|MwQWH0Y2{gJb|L*3baj7H<vG++Y~A?$Aa4MX4}~#Z*>M(|oWl$QX-bJ0pInJK0om(%JbYt~I<}-$LXQJLa^r(=qVT=ed%W*$zfIoxDPqm$9sDFE38;$Vo>y=G2vFnj>VfTY8*X-VN+LCuTE=iWig%k=3BMQ-%&Z8yY(Nu_uac->WnO#xni=jVeP!`Zk07^2naA3o4>2dA4<nyASxsSs?W?8N0-4_GMf`+~tIx^R&L5N0Z+zhOq(<#)$)fauzvHe?DNlOM_%k@j5MOd&X>($dOFR5G;l%CjzwH;9IX5+?~i!nb$f)E_5y!z)$D^FT)$14GnL+p)uRK>s$j~3*ko=+$^aAv_4=v+{rVDYO=T@z^>I#LDiK<NGl3ebD-W?TYyr$Ty^2MM=HudrEyzLN9=oL6$149t2!MNkw&(h=s%65XbW!GkUCptfgonkCuu<2u80+A5y$?!jySN<0wp#lqo;V=AX{w;L_z*hryw#4(%H}`h{wX9_l?DY2S6ysV2DTvAZ9cDJt1^e($2tjg{-%8PmRMoEzcCu>}?K6mKSPe+5SL$%}Am@F|vPXFo}O<B>6xSUNM|ZBvH2U^{n7{q9ZkOpno`tqK~ic8$L9+_rOqmji4smFe_eT9KU<-P%_am&^Oq(FOeKhVrB7rhkxDQyFbx?Fp=!o*FW^DJ}7A|*3(2c9mh8u>`(2(KONUMlGrztJe2$#zHRGE;vbVE#$An(Em~aj*uapP>Q8(Nxf(tSZCe-G7+Tl7u6a#p9sZ`Dt<7uh4~N35p}C>9|88v!w|P9R@_6z}ce_ts<=t+{4yS89-g&jdzinPmYi_f=KjZ0t0QVM`eg'))))
-# channel : https://t.me/Source_Ze
+import re
+
+from telethon import Button, events
+from telethon.events import CallbackQuery
+
+from mody.razan.resources.assistant import *
+from mody.razan.resources.mybot import *
+from SourceZe import mody
+from ..core import check_owner
+from ..Config import Config
+
+ZE_IC = "https://telegra.ph/file/c4f9c850312c8891385a9.jpg"
+ROE = "**۞ هـذه هي قائمة اوامـر سـورس زد إي ۞**"
+
+if Config.TG_BOT_USERNAME is not None and tgbot is not None:
+
+    @tgbot.on(events.InlineQuery)
+    async def inline_handler(event):
+        builder = event.builder
+        result = None
+        query = event.text
+        await bot.get_me()
+        if query.startswith("الاوامر") and event.query.user_id == bot.uid:
+            buttons = [
+                [Button.inline("☪︎ اوامر الادمن ☪︎", data="mody0")],
+                [
+                    Button.inline("☪︎ اوامر البوت ☪︎", data="rozbot"),
+                    Button.inline("☪︎ الحساب ☪︎", data="Jmrz"),
+                    Button.inline("☪︎ المجموعات ☪︎", data="gro"),
+                ],
+                [
+                    Button.inline("☪︎ الصيغ و الجهات ☪︎", data="sejrz"),
+                    Button.inline("☪︎ الحماية و تلكراف ☪︎", data="grrz"),
+                ],
+                [
+                    Button.inline("☪︎ اوامر التسلية ☪︎", data="tslrzj"),
+                    Button.inline("☪︎ الترحيبات والردود ☪︎", data="r7brz"),
+                ],
+                [
+                    Button.inline("☪︎ اومر المساعدة ☪︎", data="krrznd"),
+                    Button.inline("☪︎ الملصقات وصور ☪︎", data="jrzst"),
+                ],
+                [
+                    Button.inline("☪︎ التكرار والتنظيف ☪︎", data="krrznd"),
+                    Button.inline("☪︎ الترفيه ☪︎", data="rfhrz"),
+                ],
+                [
+                    Button.inline("☪︎ التكرار والتنظيف ☪︎", data="iiers"),
+                    Button.inline("☪︎ الملصقات وصور ☪︎", data="jrzst"),
+                ],
+                [
+                    Button.inline("☪︎ الأكستـرا ☪︎", data="iiers"),
+                    Button.inline("☪︎ الانتحال والتقليد ☪︎", data="uscuxrz"),
+                ],
+            ]
+            if ZE_IC and ZE_IC.endswith((".jpg", ".png", "gif", "mp4")):
+                result = builder.photo(
+                    ZE_IC, text=ROE, buttons=buttons, link_preview=False
+                )
+            elif ZE_IC:
+                result = builder.document(
+                    ZE_IC,
+                    title="SourceZe",
+                    text=ROE,
+                    buttons=buttons,
+                    link_preview=False,
+                )
+            else:
+                result = builder.article(
+                    title="SourceZe",
+                    text=ROE,
+                    buttons=buttons,
+                    link_preview=False,
+                )
+            await event.answer([result] if result else None)
+
+
+@bot.on(admin_cmd(outgoing=True, pattern="اوامري"))
+async def repo(event):
+    if event.fwd_from:
+        return
+    lMl10l = Config.TG_BOT_USERNAME
+    if event.reply_to_msg_id:
+        await event.get_reply_message()
+    response = await bot.inline_query(lMl10l, "اوامري")
+    await response[0].click(event.chat_id)
+    await event.delete()
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"mody0")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+      Button.inline("التالي", data="jrzst"),
+      Button.inline("القائمة الرئيسية", data="ROE"),]]
+    await event.edit(ROZADM, buttons=buttons)
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"jrzst")))
+@check_owner
+async def _(event):
+    butze = [
+    [
+     Button.inline("التالي", data="tslrzj"),
+     Button.inline("رجوع", data="mody0")]]
+    await event.edit(GRTSTI, buttons=butze)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"tslrzj")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="krrznd"),
+     Button.inline("رجوع", data="jrzst")]]
+    await event.edit(JMAN, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"krrznd")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+      Button.inline("التالي", data="rozbot"),
+      Button.inline("رجوع", data="tslrzj")]]
+    await event.edit(TKPRZ, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"rozbot")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="Jmrz"),
+     Button.inline("رجوع", data="krrznd")]]
+    await event.edit(ROZBOT, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"Jmrz")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="r7brz"),
+     Button.inline("رجوع", data="rozbot")]]
+    await event.edit(JROZT, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"r7brz")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="sejrz"),
+     Button.inline("رجوع", data="Jmrz")]]
+    await event.edit(JMTRD, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"sejrz")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="gro"),
+     Button.inline("رجوع", data="r7brz")]]
+    await event.edit(ROZSEG, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"gro")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="grrz"),
+     Button.inline("رجوع", data="sejrz")]]
+    await event.edit(JMGR1,buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"grrz")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="iiers"),
+     Button.inline("رجوع", data="gro")]]
+    await event.edit(ROZPRV, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"iiers")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="rfhrz"),
+     Button.inline("رجوع", data="grrz")]]
+    await event.edit(HERP, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"rfhrz")))
+@check_owner
+async def _(event):
+    buttons = [
+    [
+     Button.inline("التالي", data="uscuxrz"),
+     Button.inline("رجوع", data="iiers")]]
+    await event.edit(T7SHIZ, buttons=buttons)
+
+
+@mody.tgbot.on(CallbackQuery(data=re.compile(rb"uscuxrz")))
+@check_owner
+async def _(event):
+    buttons = [[Button.inline("رجوع", data="mody0"),]]
+    await event.edit(CLORN, buttons=buttons)
