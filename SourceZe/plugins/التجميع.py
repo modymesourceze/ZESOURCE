@@ -415,7 +415,7 @@ async def _(event):
 async def _(event):
     await event.edit("**۞︙سيتم تجميع النقاط من بوت دعمكم , قبل كل شي تأكد من انك قمت بالانضمام الى القنوات الاشتراك الاجباري للبوت لعدم حدوث اخطاء**")
     channel_entity = await mody.get_entity(bot_username6)
-    await mody.send_message('@DamKombot', '/start')
+    await mody.send_message('@vdamkbot', '/start')
     await asyncio.sleep(4)
     msg0 = await mody.get_messages(bot_username6, limit=1)
     await msg0[0].click(1)
@@ -430,7 +430,7 @@ async def _(event):
         if msgs.message.find('لا يوجد قنوات حالياً 🤍') != -1:
             await mody.send_message(event.chat_id, "تم الانتهاء من التجميع")
             break
-        msg_text = msgs.message  # الكود تمت كتابتهُ من قبل سورس الجوكر 
+        msg_text = msgs.message  # الكود تمت كتابتهُ من قبل سورس زد إي 
         if "اشترك فالقناة @" in msg_text:
             aljoker_channel = msg_text.split('@')[1].split()[0]
             try:
