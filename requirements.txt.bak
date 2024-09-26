@@ -79,6 +79,3 @@ youtube_dl
 yt-dlp==2024.7.16
 img2html
 googletrans-py
-
-git+https://github.com/buddhhu/img2html.git
-git+https://github.com/sandy1709/py-googletrans
