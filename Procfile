@@ -1,1 +1,1 @@
-web: python3 ser.py & python3 -m SourceZe
+web: bash cloud.sh
