@@ -21,7 +21,7 @@ StartTime = time.time()
 JEPVERSION = "3.1.3"
 
 
-if Config.UPSTREAM_REPO == "SourceZe":
+if Config.UPSTREAM_REPO == "main":
     UPSTREAM_REPO_URL = "https://github.com/modymesourceze/ZESOURCE"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
