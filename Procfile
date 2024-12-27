@@ -1,1 +1,1 @@
-web: bash cloud.sh
+web: bash start.sh

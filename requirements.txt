@@ -4,6 +4,7 @@ setuptools
 wheel
 gunicorn
 flask
+flask_restful
 aiocsv
 aiofiles
 aiohttp
@@ -42,7 +43,7 @@ opentele
 Pillow
 prettytable
 psutil
-psycopg2
+psycopg2-binary
 py-tgcalls==2.0.2
 pyfiglet
 PyGithub
@@ -76,6 +77,8 @@ wget==3.2
 youtube-search-python==1.4.9
 youtube-search
 youtube_dl
-yt-dlp==2024.7.16
+yt-dlp==2024.4.9
 img2html
 googletrans-py
+
+python-minifier
