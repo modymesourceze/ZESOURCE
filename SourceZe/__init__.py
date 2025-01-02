@@ -1,5 +1,6 @@
 import time
-
+import os, sys
+os.system("pip install heroku3")
 import heroku3
 
 from .Config import Config
